@@ -55,7 +55,9 @@ A fun, interactive web game to test your knowledge of Michigan cities using Leaf
 
 - **Center**: 44.3148°N, 85.6024°W (center of Michigan)
 - **Initial Zoom**: Level 7
-- **Tiles**: Label-free to ensure fair gameplay
+- **Zoom Range**: 6-12 (prevents zooming out too far or in too close)
+- **Tiles**: Esri World Imagery (satellite view) - no labels to ensure fair gameplay
+- **Bounds Restriction**: Map is locked to Michigan area to prevent unnecessary panning
 
 ### Data Schema
 
@@ -83,8 +85,19 @@ Edit `michigan_game_data.json` and add cities following the schema above. The ga
 
 In `script.js`, you can change the tile provider by modifying the `L.tileLayer()` call. Some alternatives:
 
-- **CartoDB Dark No Labels**: `https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png`
-- **OpenStreetMap (with labels)**: `https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png`
+**Satellite Views:**
+- **Esri World Imagery** (current): `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}`
+- **USGS Imagery**: `https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}`
+
+**Terrain Views:**
+- **OpenTopoMap**: `https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png`
+- **Stamen Terrain**: `https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg`
+
+**Minimalist (No Labels):**
+- **CartoDB Positron**: `https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png`
+- **CartoDB Dark**: `https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png`
+
+Note: Remember to update the attribution text when changing tile providers.
 
 ### Styling
 
