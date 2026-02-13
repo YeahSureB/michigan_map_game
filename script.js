@@ -82,14 +82,28 @@ function startGame(mode) {
 // Initialize Leaflet map
 function initMap() {
     // Create map centered on Michigan
-    map = L.map('map').setView([44.3148, -85.6024], 7);
+    map = L.map('map', {
+        center: [44.3148, -85.6024],
+        zoom: 7,
+        minZoom: 6,
+        maxZoom: 12
+    });
     
-    // Add CartoDB Positron No Labels tiles
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 20
+    // Add Esri World Imagery tiles (satellite view)
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community',
+        maxZoom: 18
     }).addTo(map);
+    
+    // Restrict panning to Michigan area
+    const michiganBounds = L.latLngBounds(
+        L.latLng(41.5, -90.5),  // Southwest corner
+        L.latLng(48.5, -82.0)   // Northeast corner
+    );
+    map.setMaxBounds(michiganBounds);
+    map.on('drag', function() {
+        map.panInsideBounds(michiganBounds, { animate: false });
+    });
     
     // Add click listener
     map.on('click', handleMapClick);
@@ -158,9 +172,8 @@ function handleMapClick(e) {
     // Display result
     displayResult(distanceMiles);
     
-    // Fit map to show both markers
-    const bounds = L.latLngBounds([userLatLng, actualLatLng]);
-    map.fitBounds(bounds, { padding: [50, 50] });
+    // Keep the map at the same zoom level (don't auto-zoom)
+    // Users can zoom in manually if they want to see details
 }
 
 // Display result
