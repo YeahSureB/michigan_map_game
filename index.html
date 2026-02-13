@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michigan Geography Quiz</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Game Mode Selection -->
+        <div id="mode-selection" class="mode-selection">
+            <h1>Michigan Geography Quiz</h1>
+            <p>Test your knowledge of Michigan cities!</p>
+            <div class="mode-buttons">
+                <button id="major-cities-btn" class="mode-btn">Major Cities (Top 20)</button>
+                <button id="county-seats-btn" class="mode-btn">County Seats</button>
+            </div>
+        </div>
+
+        <!-- Game Interface -->
+        <div id="game-interface" class="game-interface hidden">
+            <div class="info-panel">
+                <div class="target-city">
+                    <strong>Find:</strong> <span id="target-city-name"></span>
+                </div>
+                <div class="game-stats">
+                    <div class="stat">
+                        <span class="label">Round:</span>
+                        <span id="round-number">1</span>
+                    </div>
+                    <div class="stat">
+                        <span class="label">Mode:</span>
+                        <span id="game-mode"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="map"></div>
+
+            <div class="result-panel hidden" id="result-panel">
+                <div class="result-message" id="result-message"></div>
+                <div class="result-distance" id="result-distance"></div>
+                <button id="next-btn" class="next-btn">Next City</button>
+                <button id="change-mode-btn" class="change-mode-btn">Change Mode</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Game Script -->
+    <script src="script.js"></script>
+</body>
+</html>

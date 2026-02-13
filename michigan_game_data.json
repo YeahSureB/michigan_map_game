@@ -1,0 +1,1969 @@
+[
+  {
+    "name": "Ecorse",
+    "lat": 42.24954219984294,
+    "lng": -83.14572120642735,
+    "population": 8938,
+    "isCountySeat": false
+  },
+  {
+    "name": "Charlotte",
+    "lat": 42.57235052232119,
+    "lng": -84.81876527714942,
+    "population": 9301,
+    "isCountySeat": true
+  },
+  {
+    "name": "Howell",
+    "lat": 42.60292579735951,
+    "lng": -83.93202721699542,
+    "population": 9914,
+    "isCountySeat": true
+  },
+  {
+    "name": "Bad Axe",
+    "lat": 43.804846102099155,
+    "lng": -83.00258186228831,
+    "population": 2966,
+    "isCountySeat": true
+  },
+  {
+    "name": "Luna Pier",
+    "lat": 41.804262520053435,
+    "lng": -83.44113317195217,
+    "population": 1357,
+    "isCountySeat": false
+  },
+  {
+    "name": "Iron Mountain",
+    "lat": 45.834546256654065,
+    "lng": -88.04834001616115,
+    "population": 7524,
+    "isCountySeat": true
+  },
+  {
+    "name": "Auburn",
+    "lat": 43.60216681471241,
+    "lng": -84.07379306582983,
+    "population": 2046,
+    "isCountySeat": false
+  },
+  {
+    "name": "Scottville",
+    "lat": 43.94845918526997,
+    "lng": -86.28246998003576,
+    "population": 1355,
+    "isCountySeat": false
+  },
+  {
+    "name": "Kalamazoo",
+    "lat": 42.2798719652144,
+    "lng": -85.5781446042925,
+    "population": 73290,
+    "isCountySeat": true
+  },
+  {
+    "name": "Grayling",
+    "lat": 44.66038592020205,
+    "lng": -84.70957673080973,
+    "population": 1949,
+    "isCountySeat": true
+  },
+  {
+    "name": "Albion",
+    "lat": 42.252472810067566,
+    "lng": -84.75017333653359,
+    "population": 7494,
+    "isCountySeat": false
+  },
+  {
+    "name": "Walker",
+    "lat": 42.98814618946804,
+    "lng": -85.73114721685995,
+    "population": 25921,
+    "isCountySeat": false
+  },
+  {
+    "name": "Lapeer",
+    "lat": 43.04033975068863,
+    "lng": -83.32133449627881,
+    "population": 9146,
+    "isCountySeat": true
+  },
+  {
+    "name": "Hastings",
+    "lat": 42.65194922390521,
+    "lng": -85.30091965529084,
+    "population": 7513,
+    "isCountySeat": true
+  },
+  {
+    "name": "Dearborn",
+    "lat": 42.31222897449933,
+    "lng": -83.20285528764964,
+    "population": 106377,
+    "isCountySeat": false
+  },
+  {
+    "name": "East Grand Rapids",
+    "lat": 42.94384739159884,
+    "lng": -85.60949196361851,
+    "population": 11616,
+    "isCountySeat": false
+  },
+  {
+    "name": "Otsego",
+    "lat": 42.45619482355318,
+    "lng": -85.70144532248737,
+    "population": 5982,
+    "isCountySeat": false
+  },
+  {
+    "name": "Wayne",
+    "lat": 42.27736913652467,
+    "lng": -83.38879544597478,
+    "population": 17129,
+    "isCountySeat": false
+  },
+  {
+    "name": "Norton Shores",
+    "lat": 43.1785333663349,
+    "lng": -86.25286506238797,
+    "population": 25070,
+    "isCountySeat": false
+  },
+  {
+    "name": "Village of Douglas",
+    "lat": 42.63887479200676,
+    "lng": -86.20798360644467,
+    "population": 2345,
+    "isCountySeat": false
+  },
+  {
+    "name": "Parchment",
+    "lat": 42.3259346459203,
+    "lng": -85.57008074669677,
+    "population": 1901,
+    "isCountySeat": false
+  },
+  {
+    "name": "Harbor Springs",
+    "lat": 45.43043870374132,
+    "lng": -84.99090047835027,
+    "population": 1262,
+    "isCountySeat": false
+  },
+  {
+    "name": "White Cloud",
+    "lat": 43.55322765347357,
+    "lng": -85.77386539696369,
+    "population": 1519,
+    "isCountySeat": true
+  },
+  {
+    "name": "Benton Harbor",
+    "lat": 42.12165320478591,
+    "lng": -86.44445247411491,
+    "population": 8848,
+    "isCountySeat": false
+  },
+  {
+    "name": "Chelsea",
+    "lat": 42.3121978197772,
+    "lng": -84.01445061527778,
+    "population": 5393,
+    "isCountySeat": false
+  },
+  {
+    "name": "Manistique",
+    "lat": 45.95396675265244,
+    "lng": -86.24154133480008,
+    "population": 2871,
+    "isCountySeat": true
+  },
+  {
+    "name": "Saugatuck",
+    "lat": 42.66459322459792,
+    "lng": -86.20727889664612,
+    "population": 3639,
+    "isCountySeat": false
+  },
+  {
+    "name": "Standish",
+    "lat": 43.97930486396328,
+    "lng": -83.96710198045616,
+    "population": 1691,
+    "isCountySeat": true
+  },
+  {
+    "name": "Alma",
+    "lat": 43.37932682056361,
+    "lng": -84.65847097726706,
+    "population": 9349,
+    "isCountySeat": false
+  },
+  {
+    "name": "Harrison",
+    "lat": 44.020264531627205,
+    "lng": -84.79872490686463,
+    "population": 2170,
+    "isCountySeat": true
+  },
+  {
+    "name": "Frankenmuth",
+    "lat": 43.33165275098764,
+    "lng": -83.73841615053087,
+    "population": 5185,
+    "isCountySeat": false
+  },
+  {
+    "name": "Southfield",
+    "lat": 42.47725385974679,
+    "lng": -83.24709749026486,
+    "population": 76874,
+    "isCountySeat": false
+  },
+  {
+    "name": "Marysville",
+    "lat": 42.907368430941645,
+    "lng": -82.48109547476894,
+    "population": 9868,
+    "isCountySeat": false
+  },
+  {
+    "name": "Traverse City",
+    "lat": 44.76059818357591,
+    "lng": -85.61188257987571,
+    "population": 15782,
+    "isCountySeat": true
+  },
+  {
+    "name": "Keego Harbor",
+    "lat": 42.60912986959599,
+    "lng": -83.34644660058238,
+    "population": 2765,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rockwood",
+    "lat": 42.06932154931675,
+    "lng": -83.24820834091781,
+    "population": 3148,
+    "isCountySeat": false
+  },
+  {
+    "name": "North Muskegon",
+    "lat": 43.25810653278301,
+    "lng": -86.26357662883727,
+    "population": 4089,
+    "isCountySeat": false
+  },
+  {
+    "name": "The Village of Grosse Pointe Shores A Michigan City",
+    "lat": 42.4411897479564,
+    "lng": -82.87719093903128,
+    "population": 2555,
+    "isCountySeat": false
+  },
+  {
+    "name": "Gobles",
+    "lat": 42.36274452507018,
+    "lng": -85.87893914988092,
+    "population": 839,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rochester",
+    "lat": 42.68940325343552,
+    "lng": -83.11676537634028,
+    "population": 12978,
+    "isCountySeat": false
+  },
+  {
+    "name": "Berkley",
+    "lat": 42.497862483702306,
+    "lng": -83.18111765538939,
+    "population": 15313,
+    "isCountySeat": false
+  },
+  {
+    "name": "Roseville",
+    "lat": 42.508761288829,
+    "lng": -82.93663129500217,
+    "population": 47047,
+    "isCountySeat": false
+  },
+  {
+    "name": "Beaverton",
+    "lat": 43.88330539749946,
+    "lng": -84.4855237327063,
+    "population": 1876,
+    "isCountySeat": false
+  },
+  {
+    "name": "Leslie",
+    "lat": 42.45181694789015,
+    "lng": -84.43399629408692,
+    "population": 2324,
+    "isCountySeat": false
+  },
+  {
+    "name": "Big Rapids",
+    "lat": 43.699054626988946,
+    "lng": -85.48308625941318,
+    "population": 8565,
+    "isCountySeat": true
+  },
+  {
+    "name": "Clawson",
+    "lat": 42.53517397441673,
+    "lng": -83.15365260073916,
+    "population": 11440,
+    "isCountySeat": false
+  },
+  {
+    "name": "Harrisville",
+    "lat": 44.65801064279093,
+    "lng": -83.29026381436256,
+    "population": 1357,
+    "isCountySeat": true
+  },
+  {
+    "name": "Muskegon Heights",
+    "lat": 43.19822697558697,
+    "lng": -86.24406128600111,
+    "population": 9806,
+    "isCountySeat": false
+  },
+  {
+    "name": "Flushing",
+    "lat": 43.061532914317,
+    "lng": -83.84279847487478,
+    "population": 8224,
+    "isCountySeat": false
+  },
+  {
+    "name": "East Tawas",
+    "lat": 44.288631598579116,
+    "lng": -83.49177364839029,
+    "population": 2675,
+    "isCountySeat": false
+  },
+  {
+    "name": "Madison Heights",
+    "lat": 42.50802803654035,
+    "lng": -83.1055506449541,
+    "population": 28626,
+    "isCountySeat": false
+  },
+  {
+    "name": "Cadillac",
+    "lat": 44.24871349956678,
+    "lng": -85.40451733041805,
+    "population": 10521,
+    "isCountySeat": true
+  },
+  {
+    "name": "Tawas City",
+    "lat": 44.2658645876512,
+    "lng": -83.5219493326659,
+    "population": 1837,
+    "isCountySeat": true
+  },
+  {
+    "name": "Pontiac",
+    "lat": 42.642155547171626,
+    "lng": -83.29137897273091,
+    "population": 62528,
+    "isCountySeat": true
+  },
+  {
+    "name": "Clare",
+    "lat": 43.82466077275255,
+    "lng": -84.76446484389983,
+    "population": 3293,
+    "isCountySeat": false
+  },
+  {
+    "name": "Kentwood",
+    "lat": 42.88956828920166,
+    "lng": -85.60325363209466,
+    "population": 54768,
+    "isCountySeat": false
+  },
+  {
+    "name": "Marshall",
+    "lat": 42.26486783997579,
+    "lng": -84.97280277783229,
+    "population": 6802,
+    "isCountySeat": true
+  },
+  {
+    "name": "Wyandotte",
+    "lat": 42.212446865867875,
+    "lng": -83.16255401155047,
+    "population": 24214,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ishpeming",
+    "lat": 46.49792224718863,
+    "lng": -87.67195274938689,
+    "population": 6207,
+    "isCountySeat": false
+  },
+  {
+    "name": "Gaastra",
+    "lat": 46.058468454366164,
+    "lng": -88.6121519408308,
+    "population": 318,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Clair",
+    "lat": 42.82280914903396,
+    "lng": -82.50096132576948,
+    "population": 7130,
+    "isCountySeat": false
+  },
+  {
+    "name": "Kingsford",
+    "lat": 45.8011788495948,
+    "lng": -88.09607959876979,
+    "population": 5125,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ludington",
+    "lat": 43.955493472490964,
+    "lng": -86.44159478619302,
+    "population": 7577,
+    "isCountySeat": true
+  },
+  {
+    "name": "Evart",
+    "lat": 43.89882957909325,
+    "lng": -85.27729219737232,
+    "population": 1782,
+    "isCountySeat": false
+  },
+  {
+    "name": "Whittemore",
+    "lat": 44.233384659129975,
+    "lng": -83.80251123133927,
+    "population": 417,
+    "isCountySeat": false
+  },
+  {
+    "name": "Escanaba",
+    "lat": 45.73841269598176,
+    "lng": -87.07215549244445,
+    "population": 12296,
+    "isCountySeat": true
+  },
+  {
+    "name": "Trenton",
+    "lat": 42.1417001200592,
+    "lng": -83.18882683776224,
+    "population": 17957,
+    "isCountySeat": false
+  },
+  {
+    "name": "Sterling Heights",
+    "lat": 42.586576286183536,
+    "lng": -83.02881279866492,
+    "population": 134342,
+    "isCountySeat": false
+  },
+  {
+    "name": "Gladwin",
+    "lat": 43.978480001125526,
+    "lng": -84.49442600987518,
+    "population": 3132,
+    "isCountySeat": true
+  },
+  {
+    "name": "Dearborn Heights",
+    "lat": 42.3084622773757,
+    "lng": -83.27435843082415,
+    "population": 61040,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ionia",
+    "lat": 42.97859208383555,
+    "lng": -85.06823750864034,
+    "population": 12265,
+    "isCountySeat": true
+  },
+  {
+    "name": "Ironwood",
+    "lat": 46.45094669045456,
+    "lng": -90.17290168532789,
+    "population": 4938,
+    "isCountySeat": false
+  },
+  {
+    "name": "Southgate",
+    "lat": 42.20610097634006,
+    "lng": -83.20117893677012,
+    "population": 29081,
+    "isCountySeat": false
+  },
+  {
+    "name": "West Branch",
+    "lat": 44.27267600709583,
+    "lng": -84.23705954531772,
+    "population": 2614,
+    "isCountySeat": true
+  },
+  {
+    "name": "Muskegon",
+    "lat": 43.228784341786586,
+    "lng": -86.23468158260933,
+    "population": 37287,
+    "isCountySeat": true
+  },
+  {
+    "name": "Allegan",
+    "lat": 42.53233671580362,
+    "lng": -85.84093500449043,
+    "population": 5152,
+    "isCountySeat": true
+  },
+  {
+    "name": "Frankfort",
+    "lat": 44.633961185901065,
+    "lng": -86.23659637739743,
+    "population": 1276,
+    "isCountySeat": false
+  },
+  {
+    "name": "Allen Park",
+    "lat": 42.257180014312304,
+    "lng": -83.20835063641329,
+    "population": 27604,
+    "isCountySeat": false
+  },
+  {
+    "name": "Warren",
+    "lat": 42.488346638361136,
+    "lng": -83.0301501127344,
+    "population": 137686,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ann Arbor",
+    "lat": 42.2825481061897,
+    "lng": -83.72994615127872,
+    "population": 122925,
+    "isCountySeat": true
+  },
+  {
+    "name": "Vassar",
+    "lat": 43.37229041808534,
+    "lng": -83.57553417235572,
+    "population": 3870,
+    "isCountySeat": false
+  },
+  {
+    "name": "Potterville",
+    "lat": 42.628026864392695,
+    "lng": -84.74028495660728,
+    "population": 3121,
+    "isCountySeat": false
+  },
+  {
+    "name": "Bessemer",
+    "lat": 46.47733637208509,
+    "lng": -90.0469621402444,
+    "population": 1780,
+    "isCountySeat": true
+  },
+  {
+    "name": "Grand Haven",
+    "lat": 43.04905345080195,
+    "lng": -86.2140805295231,
+    "population": 11045,
+    "isCountySeat": true
+  },
+  {
+    "name": "Livonia",
+    "lat": 42.39697057334028,
+    "lng": -83.36891892927203,
+    "population": 93113,
+    "isCountySeat": false
+  },
+  {
+    "name": "Novi",
+    "lat": 42.47894825494501,
+    "lng": -83.49390056952365,
+    "population": 67675,
+    "isCountySeat": false
+  },
+  {
+    "name": "Mason",
+    "lat": 42.57732738043721,
+    "lng": -84.43940127408926,
+    "population": 8314,
+    "isCountySeat": true
+  },
+  {
+    "name": "Grandville",
+    "lat": 42.9067696641669,
+    "lng": -85.75226293751966,
+    "population": 17094,
+    "isCountySeat": false
+  },
+  {
+    "name": "Greenville",
+    "lat": 43.18202301796882,
+    "lng": -85.25234151044907,
+    "population": 9110,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Ignace",
+    "lat": 45.87108010627706,
+    "lng": -84.72253874362931,
+    "population": 2331,
+    "isCountySeat": true
+  },
+  {
+    "name": "Farmington",
+    "lat": 42.459459944097034,
+    "lng": -83.37991877734879,
+    "population": 11547,
+    "isCountySeat": false
+  },
+  {
+    "name": "Lake City",
+    "lat": 44.3302642331322,
+    "lng": -85.21481236375061,
+    "population": 2848,
+    "isCountySeat": true
+  },
+  {
+    "name": "Portage",
+    "lat": 42.2270674100378,
+    "lng": -85.58558791563946,
+    "population": 49975,
+    "isCountySeat": false
+  },
+  {
+    "name": "Fremont",
+    "lat": 43.46229646150557,
+    "lng": -85.95897104513477,
+    "population": 4617,
+    "isCountySeat": false
+  },
+  {
+    "name": "Hartford",
+    "lat": 42.20185812712549,
+    "lng": -86.16659770048443,
+    "population": 2983,
+    "isCountySeat": false
+  },
+  {
+    "name": "Westland",
+    "lat": 42.31880219886345,
+    "lng": -83.35786649383166,
+    "population": 82745,
+    "isCountySeat": false
+  },
+  {
+    "name": "Orchard Lake Village",
+    "lat": 42.59175716551331,
+    "lng": -83.36949758724765,
+    "population": 2242,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ferrysburg",
+    "lat": 43.08514968044027,
+    "lng": -86.20852005756134,
+    "population": 2963,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grant",
+    "lat": 43.333294475585454,
+    "lng": -85.81228345295789,
+    "population": 3448,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grosse Pointe Woods",
+    "lat": 42.43549587696156,
+    "lng": -82.90484711115334,
+    "population": 15897,
+    "isCountySeat": false
+  },
+  {
+    "name": "Richmond",
+    "lat": 42.810048686009516,
+    "lng": -82.75058801741605,
+    "population": 5905,
+    "isCountySeat": false
+  },
+  {
+    "name": "Hillsdale",
+    "lat": 41.93276837662873,
+    "lng": -84.63605618041075,
+    "population": 7983,
+    "isCountySeat": true
+  },
+  {
+    "name": "Lincoln Park",
+    "lat": 42.245395798869644,
+    "lng": -83.1764999006595,
+    "population": 38774,
+    "isCountySeat": false
+  },
+  {
+    "name": "Flat Rock",
+    "lat": 42.0905871991546,
+    "lng": -83.27581241873204,
+    "population": 10249,
+    "isCountySeat": false
+  },
+  {
+    "name": "Alpena",
+    "lat": 45.071865190321866,
+    "lng": -83.42924252295008,
+    "population": 10116,
+    "isCountySeat": true
+  },
+  {
+    "name": "Fennville",
+    "lat": 42.594305338081575,
+    "lng": -86.10456718399627,
+    "population": 1733,
+    "isCountySeat": false
+  },
+  {
+    "name": "Dewitt",
+    "lat": 42.83577917420089,
+    "lng": -84.58354707407725,
+    "population": 4780,
+    "isCountySeat": false
+  },
+  {
+    "name": "Petoskey",
+    "lat": 45.36649873392626,
+    "lng": -85.00158604245468,
+    "population": 5810,
+    "isCountySeat": true
+  },
+  {
+    "name": "Imlay City",
+    "lat": 43.01796733352074,
+    "lng": -83.07934477905208,
+    "population": 3749,
+    "isCountySeat": false
+  },
+  {
+    "name": "Flint",
+    "lat": 43.013307570816366,
+    "lng": -83.69865278174098,
+    "population": 79735,
+    "isCountySeat": true
+  },
+  {
+    "name": "Stanton",
+    "lat": 43.29256463137991,
+    "lng": -85.08113639632685,
+    "population": 1618,
+    "isCountySeat": true
+  },
+  {
+    "name": "Hudson",
+    "lat": 41.86021857489001,
+    "lng": -84.34734233594652,
+    "population": 2361,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grand Blanc",
+    "lat": 42.92557717174028,
+    "lng": -83.61584178662416,
+    "population": 7924,
+    "isCountySeat": false
+  },
+  {
+    "name": "Negaunee",
+    "lat": 46.497313000744256,
+    "lng": -87.5983658756277,
+    "population": 4676,
+    "isCountySeat": false
+  },
+  {
+    "name": "Saginaw",
+    "lat": 43.41871948334117,
+    "lng": -83.94575525484746,
+    "population": 43001,
+    "isCountySeat": true
+  },
+  {
+    "name": "South Haven",
+    "lat": 42.39954905320947,
+    "lng": -86.26446502930395,
+    "population": 4017,
+    "isCountySeat": false
+  },
+  {
+    "name": "Melvindale",
+    "lat": 42.27948504026592,
+    "lng": -83.17612105650682,
+    "population": 12401,
+    "isCountySeat": false
+  },
+  {
+    "name": "Norway",
+    "lat": 45.794861001102234,
+    "lng": -87.91494490718105,
+    "population": 2840,
+    "isCountySeat": false
+  },
+  {
+    "name": "Durand",
+    "lat": 42.91729641462323,
+    "lng": -83.98623781172478,
+    "population": 3483,
+    "isCountySeat": false
+  },
+  {
+    "name": "Niles",
+    "lat": 41.838362101630686,
+    "lng": -86.24266777767482,
+    "population": 14300,
+    "isCountySeat": false
+  },
+  {
+    "name": "Mt Pleasant",
+    "lat": 43.601391143831826,
+    "lng": -84.77169486170979,
+    "population": 21090,
+    "isCountySeat": false
+  },
+  {
+    "name": "Royal Oak",
+    "lat": 42.508638185037796,
+    "lng": -83.15518468085126,
+    "population": 58251,
+    "isCountySeat": false
+  },
+  {
+    "name": "Houghton",
+    "lat": 47.11398566126414,
+    "lng": -88.56870131408171,
+    "population": 8543,
+    "isCountySeat": true
+  },
+  {
+    "name": "Village of Clarkston",
+    "lat": 42.73285602103253,
+    "lng": -83.42184335493616,
+    "population": 922,
+    "isCountySeat": false
+  },
+  {
+    "name": "Plymouth",
+    "lat": 42.37158378798091,
+    "lng": -83.4666028753802,
+    "population": 9185,
+    "isCountySeat": false
+  },
+  {
+    "name": "Buchanan",
+    "lat": 41.83018750153155,
+    "lng": -86.36643827167494,
+    "population": 4169,
+    "isCountySeat": false
+  },
+  {
+    "name": "Iron River",
+    "lat": 46.09840925050607,
+    "lng": -88.64232482643528,
+    "population": 3017,
+    "isCountySeat": false
+  },
+  {
+    "name": "Laingsburg",
+    "lat": 42.888497237785444,
+    "lng": -84.35526362197348,
+    "population": 1411,
+    "isCountySeat": false
+  },
+  {
+    "name": "Detroit",
+    "lat": 42.374834875580035,
+    "lng": -83.09525221353542,
+    "population": 645705,
+    "isCountySeat": true
+  },
+  {
+    "name": "Lake Angelus",
+    "lat": 42.69444902286469,
+    "lng": -83.3252442062321,
+    "population": 290,
+    "isCountySeat": false
+  },
+  {
+    "name": "Gibraltar",
+    "lat": 42.09305847577786,
+    "lng": -83.19694632413825,
+    "population": 4819,
+    "isCountySeat": false
+  },
+  {
+    "name": "Stephenson",
+    "lat": 45.414871211485874,
+    "lng": -87.60769434876441,
+    "population": 798,
+    "isCountySeat": false
+  },
+  {
+    "name": "Petersburg",
+    "lat": 41.899619256161714,
+    "lng": -83.7111270646491,
+    "population": 1162,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grosse Pointe",
+    "lat": 42.39231486309843,
+    "lng": -82.91345511245703,
+    "population": 5526,
+    "isCountySeat": false
+  },
+  {
+    "name": "Harbor Beach",
+    "lat": 43.84698566312828,
+    "lng": -82.64924442229083,
+    "population": 1566,
+    "isCountySeat": false
+  },
+  {
+    "name": "Crystal Falls",
+    "lat": 46.09267337455208,
+    "lng": -88.33028038129271,
+    "population": 1669,
+    "isCountySeat": true
+  },
+  {
+    "name": "Ferndale",
+    "lat": 42.458171983622705,
+    "lng": -83.13227167164158,
+    "population": 19431,
+    "isCountySeat": false
+  },
+  {
+    "name": "Utica",
+    "lat": 42.628174798670315,
+    "lng": -83.02605236686732,
+    "population": 5139,
+    "isCountySeat": false
+  },
+  {
+    "name": "Wyoming",
+    "lat": 42.89788146615742,
+    "lng": -85.7007274836309,
+    "population": 78559,
+    "isCountySeat": false
+  },
+  {
+    "name": "Holland",
+    "lat": 42.77391164468172,
+    "lng": -86.10143799884112,
+    "population": 35023,
+    "isCountySeat": false
+  },
+  {
+    "name": "Zilwaukee",
+    "lat": 43.4804074790029,
+    "lng": -83.92222607694163,
+    "population": 1493,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Johns",
+    "lat": 43.00387432655408,
+    "lng": -84.55413269482315,
+    "population": 7723,
+    "isCountySeat": true
+  },
+  {
+    "name": "Hancock",
+    "lat": 47.13409549026124,
+    "lng": -88.5959226212096,
+    "population": 4620,
+    "isCountySeat": false
+  },
+  {
+    "name": "Northville",
+    "lat": 42.433161177039885,
+    "lng": -83.4882176152008,
+    "population": 31542,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rochester Hills",
+    "lat": 42.67643678498831,
+    "lng": -83.13660566723006,
+    "population": 78330,
+    "isCountySeat": false
+  },
+  {
+    "name": "Springfield",
+    "lat": 42.32271852539983,
+    "lng": -85.23622036346309,
+    "population": 5267,
+    "isCountySeat": false
+  },
+  {
+    "name": "Bridgman",
+    "lat": 41.93743192870229,
+    "lng": -86.56725438041747,
+    "population": 2048,
+    "isCountySeat": false
+  },
+  {
+    "name": "Riverview",
+    "lat": 42.17326552786492,
+    "lng": -83.18881217256583,
+    "population": 12011,
+    "isCountySeat": false
+  },
+  {
+    "name": "Fraser",
+    "lat": 42.53802461731478,
+    "lng": -82.94883287139231,
+    "population": 14549,
+    "isCountySeat": false
+  },
+  {
+    "name": "Caspian",
+    "lat": 46.0641115719491,
+    "lng": -88.62811104754547,
+    "population": 818,
+    "isCountySeat": false
+  },
+  {
+    "name": "Charlevoix",
+    "lat": 45.31462693705172,
+    "lng": -85.25282542558504,
+    "population": 2332,
+    "isCountySeat": true
+  },
+  {
+    "name": "Dexter",
+    "lat": 42.33445037786929,
+    "lng": -83.88468911695577,
+    "population": 6611,
+    "isCountySeat": false
+  },
+  {
+    "name": "Carson City",
+    "lat": 43.181392406733394,
+    "lng": -84.84879219372803,
+    "population": 1140,
+    "isCountySeat": false
+  },
+  {
+    "name": "Reed City",
+    "lat": 43.87583296771711,
+    "lng": -85.50760255362121,
+    "population": 2531,
+    "isCountySeat": true
+  },
+  {
+    "name": "Hart",
+    "lat": 43.69517869313697,
+    "lng": -86.37210373299095,
+    "population": 2059,
+    "isCountySeat": true
+  },
+  {
+    "name": "Coldwater",
+    "lat": 41.94371142264086,
+    "lng": -85.00502891496464,
+    "population": 14314,
+    "isCountySeat": true
+  },
+  {
+    "name": "Marquette",
+    "lat": 46.55617836721958,
+    "lng": -87.39390837365146,
+    "population": 21845,
+    "isCountySeat": true
+  },
+  {
+    "name": "Marine City",
+    "lat": 42.71151283687567,
+    "lng": -82.50487501407127,
+    "population": 4006,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Joseph",
+    "lat": 42.093913144893556,
+    "lng": -86.48787375966175,
+    "population": 7930,
+    "isCountySeat": true
+  },
+  {
+    "name": "Grand Rapids",
+    "lat": 42.953128528412954,
+    "lng": -85.64751174055488,
+    "population": 200117,
+    "isCountySeat": true
+  },
+  {
+    "name": "Jackson",
+    "lat": 42.23419809363629,
+    "lng": -84.39613057499625,
+    "population": 30920,
+    "isCountySeat": true
+  },
+  {
+    "name": "Reading",
+    "lat": 41.84006058755038,
+    "lng": -84.7445500751147,
+    "population": 1725,
+    "isCountySeat": false
+  },
+  {
+    "name": "Brown City",
+    "lat": 43.21023201420649,
+    "lng": -82.9843377985488,
+    "population": 1292,
+    "isCountySeat": false
+  },
+  {
+    "name": "Whitehall",
+    "lat": 43.403689543305006,
+    "lng": -86.339320879134,
+    "population": 3130,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ypsilanti",
+    "lat": 42.24294796887252,
+    "lng": -83.62146163770863,
+    "population": 20150,
+    "isCountySeat": false
+  },
+  {
+    "name": "Oak Park",
+    "lat": 42.46973129076253,
+    "lng": -83.18003075340125,
+    "population": 29402,
+    "isCountySeat": false
+  },
+  {
+    "name": "Hudsonville",
+    "lat": 42.86290692233184,
+    "lng": -85.86198989583751,
+    "population": 7985,
+    "isCountySeat": false
+  },
+  {
+    "name": "Dowagiac",
+    "lat": 41.98243540516379,
+    "lng": -86.11180513784163,
+    "population": 5742,
+    "isCountySeat": false
+  },
+  {
+    "name": "Gladstone",
+    "lat": 45.85332568960974,
+    "lng": -87.02660121802175,
+    "population": 5226,
+    "isCountySeat": false
+  },
+  {
+    "name": "Troy",
+    "lat": 42.571396156365715,
+    "lng": -83.15188815565904,
+    "population": 89209,
+    "isCountySeat": false
+  },
+  {
+    "name": "Cheboygan",
+    "lat": 45.64510456570115,
+    "lng": -84.47069873655009,
+    "population": 4831,
+    "isCountySeat": true
+  },
+  {
+    "name": "Bay City",
+    "lat": 43.59087426229384,
+    "lng": -83.88222076622586,
+    "population": 32086,
+    "isCountySeat": true
+  },
+  {
+    "name": "Watervliet",
+    "lat": 42.18966922780112,
+    "lng": -86.25921926521308,
+    "population": 3107,
+    "isCountySeat": false
+  },
+  {
+    "name": "East Jordan",
+    "lat": 45.152105846054866,
+    "lng": -85.1301425765882,
+    "population": 2243,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Louis",
+    "lat": 43.406318033485356,
+    "lng": -84.6143371479396,
+    "population": 7465,
+    "isCountySeat": false
+  },
+  {
+    "name": "Mt Clemens",
+    "lat": 42.59609951842274,
+    "lng": -82.87938154634156,
+    "population": 15480,
+    "isCountySeat": true
+  },
+  {
+    "name": "Woodhaven",
+    "lat": 42.12968686137471,
+    "lng": -83.23793105711964,
+    "population": 12575,
+    "isCountySeat": false
+  },
+  {
+    "name": "Brighton",
+    "lat": 42.5291597413872,
+    "lng": -83.78587181805311,
+    "population": 19519,
+    "isCountySeat": false
+  },
+  {
+    "name": "Mt Morris",
+    "lat": 43.117965203598494,
+    "lng": -83.69853384860296,
+    "population": 19619,
+    "isCountySeat": false
+  },
+  {
+    "name": "Galesburg",
+    "lat": 42.28778599130942,
+    "lng": -85.41750353856206,
+    "population": 2083,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ithaca",
+    "lat": 43.28714472163957,
+    "lng": -84.58529842231691,
+    "population": 2813,
+    "isCountySeat": true
+  },
+  {
+    "name": "Wayland",
+    "lat": 42.677986678720465,
+    "lng": -85.63936154793385,
+    "population": 4543,
+    "isCountySeat": false
+  },
+  {
+    "name": "Caseville",
+    "lat": 43.937525026670066,
+    "lng": -83.28308234473539,
+    "population": 1645,
+    "isCountySeat": false
+  },
+  {
+    "name": "Davison",
+    "lat": 43.03122890261529,
+    "lng": -83.51863314587447,
+    "population": 20439,
+    "isCountySeat": false
+  },
+  {
+    "name": "New Baltimore",
+    "lat": 42.68746102029656,
+    "lng": -82.73324184520544,
+    "population": 12132,
+    "isCountySeat": false
+  },
+  {
+    "name": "Garden City",
+    "lat": 42.32844775033079,
+    "lng": -83.34235046605066,
+    "population": 26410,
+    "isCountySeat": false
+  },
+  {
+    "name": "Monroe",
+    "lat": 41.920396316220916,
+    "lng": -83.39514011829367,
+    "population": 20177,
+    "isCountySeat": true
+  },
+  {
+    "name": "Lansing",
+    "lat": 42.71667549417278,
+    "lng": -84.53989725946016,
+    "population": 114336,
+    "isCountySeat": false
+  },
+  {
+    "name": "Huntington Woods",
+    "lat": 42.478585514047566,
+    "lng": -83.1646150965569,
+    "population": 6345,
+    "isCountySeat": false
+  },
+  {
+    "name": "Saline",
+    "lat": 42.169953644753704,
+    "lng": -83.7793828242166,
+    "population": 9101,
+    "isCountySeat": false
+  },
+  {
+    "name": "Adrian",
+    "lat": 41.90709225968286,
+    "lng": -84.05039623437952,
+    "population": 20259,
+    "isCountySeat": true
+  },
+  {
+    "name": "Owosso",
+    "lat": 42.99501110936888,
+    "lng": -84.1775807682921,
+    "population": 14544,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rockford",
+    "lat": 43.12760924054901,
+    "lng": -85.5558786136547,
+    "population": 6291,
+    "isCountySeat": false
+  },
+  {
+    "name": "Litchfield",
+    "lat": 42.03956231188924,
+    "lng": -84.75484240075873,
+    "population": 1390,
+    "isCountySeat": false
+  },
+  {
+    "name": "Tecumseh",
+    "lat": 42.01326839080645,
+    "lng": -83.9485226104426,
+    "population": 8606,
+    "isCountySeat": false
+  },
+  {
+    "name": "Cedar Springs",
+    "lat": 43.217679222382294,
+    "lng": -85.55848097509478,
+    "population": 3749,
+    "isCountySeat": false
+  },
+  {
+    "name": "Taylor",
+    "lat": 42.234362451741255,
+    "lng": -83.26543340811588,
+    "population": 61544,
+    "isCountySeat": false
+  },
+  {
+    "name": "Coloma",
+    "lat": 42.188934618204186,
+    "lng": -86.30633114402156,
+    "population": 1422,
+    "isCountySeat": false
+  },
+  {
+    "name": "River Rouge",
+    "lat": 42.27288901530145,
+    "lng": -83.1288216683053,
+    "population": 6877,
+    "isCountySeat": false
+  },
+  {
+    "name": "Auburn Hills",
+    "lat": 42.6762014226475,
+    "lng": -83.25936805587138,
+    "population": 26047,
+    "isCountySeat": false
+  },
+  {
+    "name": "Onaway",
+    "lat": 45.35571336614282,
+    "lng": -84.22812376625706,
+    "population": 912,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grosse Pointe Park",
+    "lat": 42.37966988999411,
+    "lng": -82.93025821309736,
+    "population": 11158,
+    "isCountySeat": false
+  },
+  {
+    "name": "Bloomfield Hills",
+    "lat": 42.57642002453657,
+    "lng": -83.24617501211209,
+    "population": 4444,
+    "isCountySeat": false
+  },
+  {
+    "name": "Burton",
+    "lat": 42.99350165779766,
+    "lng": -83.6375491304987,
+    "population": 29420,
+    "isCountySeat": false
+  },
+  {
+    "name": "Montrose",
+    "lat": 43.17799738505238,
+    "lng": -83.8931849717966,
+    "population": 1708,
+    "isCountySeat": false
+  },
+  {
+    "name": "Harper Woods",
+    "lat": 42.43843517253684,
+    "lng": -82.92841163693856,
+    "population": 14936,
+    "isCountySeat": false
+  },
+  {
+    "name": "Mackinac Island",
+    "lat": 45.854182883269544,
+    "lng": -84.62035373620502,
+    "population": 613,
+    "isCountySeat": false
+  },
+  {
+    "name": "Boyne City",
+    "lat": 45.218804658924675,
+    "lng": -85.0083145878306,
+    "population": 3821,
+    "isCountySeat": false
+  },
+  {
+    "name": "Eaton Rapids",
+    "lat": 42.50875970202386,
+    "lng": -84.64864572855939,
+    "population": 5184,
+    "isCountySeat": false
+  },
+  {
+    "name": "Morenci",
+    "lat": 41.72889074651243,
+    "lng": -84.22173826905862,
+    "population": 2220,
+    "isCountySeat": false
+  },
+  {
+    "name": "Au Gres",
+    "lat": 44.03697927273138,
+    "lng": -83.68849244050364,
+    "population": 957,
+    "isCountySeat": false
+  },
+  {
+    "name": "Memphis",
+    "lat": 42.89869582050506,
+    "lng": -82.77316665963852,
+    "population": 1083,
+    "isCountySeat": false
+  },
+  {
+    "name": "St Clair Shores",
+    "lat": 42.48654611694379,
+    "lng": -82.89261128903699,
+    "population": 58077,
+    "isCountySeat": false
+  },
+  {
+    "name": "Port Huron",
+    "lat": 42.98630091135273,
+    "lng": -82.4455517898055,
+    "population": 28342,
+    "isCountySeat": true
+  },
+  {
+    "name": "Bronson",
+    "lat": 41.87499067042579,
+    "lng": -85.19355472760476,
+    "population": 2322,
+    "isCountySeat": false
+  },
+  {
+    "name": "Montague",
+    "lat": 43.41508595486938,
+    "lng": -86.36246089296257,
+    "population": 2425,
+    "isCountySeat": false
+  },
+  {
+    "name": "Zeeland",
+    "lat": 42.81141125347202,
+    "lng": -86.01884748163505,
+    "population": 5637,
+    "isCountySeat": false
+  },
+  {
+    "name": "Wixom",
+    "lat": 42.511691393428606,
+    "lng": -83.52890731012994,
+    "population": 17486,
+    "isCountySeat": false
+  },
+  {
+    "name": "Birmingham",
+    "lat": 42.55113878040467,
+    "lng": -83.21580852486936,
+    "population": 22198,
+    "isCountySeat": false
+  },
+  {
+    "name": "Belleville",
+    "lat": 42.203583217510705,
+    "lng": -83.48480522712813,
+    "population": 3874,
+    "isCountySeat": false
+  },
+  {
+    "name": "Portland",
+    "lat": 42.867682518226594,
+    "lng": -84.89642665643309,
+    "population": 3945,
+    "isCountySeat": false
+  },
+  {
+    "name": "East Lansing",
+    "lat": 42.75238271131306,
+    "lng": -84.48238149409745,
+    "population": 48964,
+    "isCountySeat": false
+  },
+  {
+    "name": "Caro",
+    "lat": 43.49090144623582,
+    "lng": -83.39837531596652,
+    "population": 4262,
+    "isCountySeat": true
+  },
+  {
+    "name": "Swartz Creek",
+    "lat": 42.964996739506645,
+    "lng": -83.81304860873367,
+    "population": 5848,
+    "isCountySeat": false
+  },
+  {
+    "name": "Midland",
+    "lat": 43.636763343021606,
+    "lng": -84.24924303437649,
+    "population": 42780,
+    "isCountySeat": true
+  },
+  {
+    "name": "Bangor",
+    "lat": 42.31008777037502,
+    "lng": -86.11373708435977,
+    "population": 1976,
+    "isCountySeat": false
+  },
+  {
+    "name": "Milan",
+    "lat": 42.08596532246189,
+    "lng": -83.6778727836942,
+    "population": 6048,
+    "isCountySeat": false
+  },
+  {
+    "name": "Wakefield",
+    "lat": 46.47617007731826,
+    "lng": -89.9384368344427,
+    "population": 1674,
+    "isCountySeat": false
+  },
+  {
+    "name": "Battle Creek",
+    "lat": 42.3287726600656,
+    "lng": -85.20825208208166,
+    "population": 52205,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grosse Pointe Farms",
+    "lat": 42.407011707991124,
+    "lng": -82.89777573138272,
+    "population": 9794,
+    "isCountySeat": false
+  },
+  {
+    "name": "Essexville",
+    "lat": 43.61124526226208,
+    "lng": -83.8445806950613,
+    "population": 3302,
+    "isCountySeat": false
+  },
+  {
+    "name": "Yale",
+    "lat": 43.12350108188434,
+    "lng": -82.79395382364388,
+    "population": 1878,
+    "isCountySeat": false
+  },
+  {
+    "name": "McBain",
+    "lat": 44.199164920532034,
+    "lng": -85.21569556170297,
+    "population": 639,
+    "isCountySeat": false
+  },
+  {
+    "name": "Jonesville",
+    "lat": 41.97553572081931,
+    "lng": -84.66731968679507,
+    "population": 2167,
+    "isCountySeat": false
+  },
+  {
+    "name": "Lathrup Village",
+    "lat": 42.48903822352831,
+    "lng": -83.23169575904241,
+    "population": 4067,
+    "isCountySeat": false
+  },
+  {
+    "name": "Eastpointe",
+    "lat": 42.46579166820954,
+    "lng": -82.94249758504766,
+    "population": 33943,
+    "isCountySeat": false
+  },
+  {
+    "name": "Pinconning",
+    "lat": 43.85644992547845,
+    "lng": -83.96329236388142,
+    "population": 2290,
+    "isCountySeat": false
+  },
+  {
+    "name": "Menominee",
+    "lat": 45.12324137301723,
+    "lng": -87.61716442428005,
+    "population": 8231,
+    "isCountySeat": true
+  },
+  {
+    "name": "Gaylord",
+    "lat": 45.018567191560635,
+    "lng": -84.68090546424337,
+    "population": 4433,
+    "isCountySeat": true
+  },
+  {
+    "name": "Munising",
+    "lat": 46.422829051938955,
+    "lng": -86.63534236279918,
+    "population": 2781,
+    "isCountySeat": true
+  },
+  {
+    "name": "Linden",
+    "lat": 42.81653941225404,
+    "lng": -83.78363422447342,
+    "population": 4185,
+    "isCountySeat": false
+  },
+  {
+    "name": "New Buffalo",
+    "lat": 41.795429366904855,
+    "lng": -86.74197326511978,
+    "population": 2517,
+    "isCountySeat": false
+  },
+  {
+    "name": "Fenton",
+    "lat": 42.7981416459741,
+    "lng": -83.72522957262291,
+    "population": 11882,
+    "isCountySeat": false
+  },
+  {
+    "name": "Roosevelt Park",
+    "lat": 43.19732521263072,
+    "lng": -86.27363817361329,
+    "population": 4133,
+    "isCountySeat": false
+  },
+  {
+    "name": "Williamston",
+    "lat": 42.68724512578486,
+    "lng": -84.28430892393304,
+    "population": 3849,
+    "isCountySeat": false
+  },
+  {
+    "name": "Sault Ste Marie",
+    "lat": 46.48973442439249,
+    "lng": -84.3528043362406,
+    "population": 13288,
+    "isCountySeat": true
+  },
+  {
+    "name": "Olivet",
+    "lat": 42.44432227165301,
+    "lng": -84.92306760334462,
+    "population": 1533,
+    "isCountySeat": false
+  },
+  {
+    "name": "Center Line",
+    "lat": 42.4808368666291,
+    "lng": -83.0277846874161,
+    "population": 8533,
+    "isCountySeat": false
+  },
+  {
+    "name": "Belding",
+    "lat": 43.09256502337271,
+    "lng": -85.22993314171146,
+    "population": 5967,
+    "isCountySeat": false
+  },
+  {
+    "name": "Highland Park",
+    "lat": 42.40546604316543,
+    "lng": -83.10322560764834,
+    "population": 8390,
+    "isCountySeat": false
+  },
+  {
+    "name": "Sandusky",
+    "lat": 43.4197054829315,
+    "lng": -82.8337605463961,
+    "population": 2679,
+    "isCountySeat": true
+  },
+  {
+    "name": "South Lyon",
+    "lat": 42.46141918074722,
+    "lng": -83.65370586197531,
+    "population": 12219,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rogers City",
+    "lat": 45.41967608076236,
+    "lng": -83.8055159642472,
+    "population": 2890,
+    "isCountySeat": true
+  },
+  {
+    "name": "Algonac",
+    "lat": 42.62155434063977,
+    "lng": -82.53574788329917,
+    "population": 4111,
+    "isCountySeat": false
+  },
+  {
+    "name": "Manton",
+    "lat": 44.41376623706382,
+    "lng": -85.40180305531905,
+    "population": 1530,
+    "isCountySeat": false
+  },
+  {
+    "name": "Clio",
+    "lat": 43.17785112530105,
+    "lng": -83.73993188641084,
+    "population": 2475,
+    "isCountySeat": false
+  },
+  {
+    "name": "Manistee",
+    "lat": 44.24272674981569,
+    "lng": -86.32350671940688,
+    "population": 6241,
+    "isCountySeat": true
+  },
+  {
+    "name": "Sylvan Lake",
+    "lat": 42.6141017992258,
+    "lng": -83.33240291289337,
+    "population": 1712,
+    "isCountySeat": false
+  },
+  {
+    "name": "Farmington Hills",
+    "lat": 42.489316015448495,
+    "lng": -83.37303665147627,
+    "population": 84173,
+    "isCountySeat": false
+  },
+  {
+    "name": "Corunna",
+    "lat": 42.98261584637343,
+    "lng": -84.11537329221733,
+    "population": 3014,
+    "isCountySeat": true
+  },
+  {
+    "name": "Perry",
+    "lat": 42.818690120320504,
+    "lng": -84.23299595075645,
+    "population": 4185,
+    "isCountySeat": false
+  },
+  {
+    "name": "Coleman",
+    "lat": 43.762147352079886,
+    "lng": -84.58892482179157,
+    "population": 1262,
+    "isCountySeat": false
+  },
+  {
+    "name": "Three Rivers",
+    "lat": 41.948954771233204,
+    "lng": -85.631225606365,
+    "population": 7958,
+    "isCountySeat": false
+  },
+  {
+    "name": "Pleasant Ridge",
+    "lat": 42.47300123853236,
+    "lng": -83.14452482532587,
+    "population": 2619,
+    "isCountySeat": false
+  },
+  {
+    "name": "Grand Ledge",
+    "lat": 42.75038077173572,
+    "lng": -84.74545538544464,
+    "population": 7838,
+    "isCountySeat": false
+  },
+  {
+    "name": "Lowell",
+    "lat": 42.93865682155585,
+    "lng": -85.34529657711133,
+    "population": 4153,
+    "isCountySeat": false
+  },
+  {
+    "name": "Romulus",
+    "lat": 42.228367280293796,
+    "lng": -83.37086840533115,
+    "population": 24652,
+    "isCountySeat": false
+  },
+  {
+    "name": "Plainwell",
+    "lat": 42.44784907586386,
+    "lng": -85.64365252065355,
+    "population": 3736,
+    "isCountySeat": false
+  },
+  {
+    "name": "Sturgis",
+    "lat": 41.79269846023097,
+    "lng": -85.41873132532244,
+    "population": 11030,
+    "isCountySeat": false
+  },
+  {
+    "name": "Newaygo",
+    "lat": 43.41140030471832,
+    "lng": -85.80296381585352,
+    "population": 2556,
+    "isCountySeat": false
+  },
+  {
+    "name": "Croswell",
+    "lat": 43.27070132740388,
+    "lng": -82.6173202289057,
+    "population": 2289,
+    "isCountySeat": false
+  },
+  {
+    "name": "Omer",
+    "lat": 44.0487045604169,
+    "lng": -83.85429433703477,
+    "population": 284,
+    "isCountySeat": false
+  },
+  {
+    "name": "Marlette",
+    "lat": 43.33116232889223,
+    "lng": -83.07850922369579,
+    "population": 1843,
+    "isCountySeat": false
+  },
+  {
+    "name": "Hazel Park",
+    "lat": 42.45850113836346,
+    "lng": -83.09785149802791,
+    "population": 15064,
+    "isCountySeat": false
+  },
+  {
+    "name": "Inkster",
+    "lat": 42.295398787120206,
+    "lng": -83.31431126241188,
+    "population": 25108,
+    "isCountySeat": false
+  },
+  {
+    "name": "Coopersville",
+    "lat": 43.06528272535807,
+    "lng": -85.93335208613983,
+    "population": 4856,
+    "isCountySeat": false
+  },
+  {
+    "name": "Hamtramck",
+    "lat": 42.39585499464734,
+    "lng": -83.05563415247319,
+    "population": 27424,
+    "isCountySeat": false
+  },
+  {
+    "name": "Rose City",
+    "lat": 44.421232536373324,
+    "lng": -84.11797209182198,
+    "population": 6278,
+    "isCountySeat": false
+  },
+  {
+    "name": "Ovid",
+    "lat": 43.00360492041579,
+    "lng": -84.37330473389792,
+    "population": 2207,
+    "isCountySeat": false
+  },
+  {
+    "name": "Walled Lake",
+    "lat": 42.5417349082413,
+    "lng": -83.47825878907335,
+    "population": 7413,
+    "isCountySeat": false
+  },
+  {
+    "name": "Manchester",
+    "lat": 42.146664703325435,
+    "lng": -84.03287676856775,
+    "population": 4630,
+    "isCountySeat": false
+  }
+]
