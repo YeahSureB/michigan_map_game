@@ -18,7 +18,8 @@
     "lat": 42.60292579735951,
     "lng": -83.93202721699542,
     "population": 9914,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Howell is the largest city in and the county seat of Livingston County, Michigan, United States. Howell, is prominently known for its award-winning, historic downtown, having won the Great American Main Street Award in 2018 and top rankings from USA Today for \"Best Main Street\" in 2024."
   },
   {
     "name": "Bad Axe",
@@ -39,7 +40,8 @@
     "lat": 45.834546256654065,
     "lng": -88.04834001616115,
     "population": 7524,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Iron Mountain was named for the valuable iron ore found in the vicinity. Iron Mountain hosts the Millie Hill bat cave and the Chapin Mine Steam Pump Engine, and is located adjacent to the Pine Mountain Jump, one of the largest artificial ski jumps in the world. Iron Mountain hosted the FIS Ski Jumping World Cup at the Pine Mountain Ski Jump in 1996 and 2000."
   },
   {
     "name": "Auburn",
@@ -60,7 +62,8 @@
     "lat": 42.2798719652144,
     "lng": -85.5781446042925,
     "population": 73290,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Kalamazoo, Michigan, is a vibrant southwest Michigan city founded in 1831, famous as the birthplace of Gibson Guitars, Checker Taxi, and Bell's Brewery. Formerly known as the \"Celery City\" and famous for the first pedestrian mall, it is now known for the \"Kalamazoo Promise,\" which offers free college tuition to public school graduates."
   },
   {
     "name": "Grayling",
@@ -88,21 +91,24 @@
     "lat": 43.04033975068863,
     "lng": -83.32133449627881,
     "population": 9146,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Lapeer is the county seat of Lapeer County. Built in 1846, the Lapeer courthouse is the oldest courthouse in Michigan still in continuous use. The city's name is derived from the French phrase \"la pierre\" (meaning \"stone\"), referring to the flint stone in the nearby Flint River."
   },
   {
     "name": "Hastings",
     "lat": 42.65194922390521,
     "lng": -85.30091965529084,
     "population": 7513,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Hastings is the county seat of Barry County, as well as the county's only city. Hastings was the birthplace of Gordon Johncock, a two-time winner of the Indianapolis 500, and Lady Baldwin, an 1800s Major League Baseball player."
   },
   {
     "name": "Dearborn",
     "lat": 42.31222897449933,
     "lng": -83.20285528764964,
     "population": 106377,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Dearborn, Michigan, is renowned as the birthplace of Henry Ford and the home of Ford Motor Company's world headquarters. It holds the title of the first Arab-majority city in the United States (as of 2023), boasting the largest Muslim population per capita in the country and the largest mosque in North America."
   },
   {
     "name": "East Grand Rapids",
@@ -130,7 +136,8 @@
     "lat": 43.1785333663349,
     "lng": -86.25286506238797,
     "population": 25070,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Norton Shores is known for its stunning natural beauty, boasting miles of Lake Michigan shoreline, extensive sandy beaches, and the heavily visited P.J. Hoffmaster State Park."
   },
   {
     "name": "Village of Douglas",
@@ -221,7 +228,8 @@
     "lat": 42.47725385974679,
     "lng": -83.24709749026486,
     "population": 76874,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Southfield, Michigan, nicknamed \"The Center of it All,\" features a distinct \"Golden Triangle\" of five skyscrapers and was one of the first U.S. cities to pass an open housing ordinance in 1964. It evolved from a 19th-century township into a major business hub, boasting over 27 million square feet of office space. Big Boy Restaurant Group, LLC is headquarted in Southfeild."
   },
   {
     "name": "Marysville",
@@ -235,7 +243,8 @@
     "lat": 44.76059818357591,
     "lng": -85.61188257987571,
     "population": 15782,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "The largest city in Northern Michigan, Traverse City is nicknamed \"the Cherry Capital of the World\", as the area surrounding Grand Traverse Bay is a hotspot for cherry production. The city hosts the National Cherry Festival, attracting approximately 500,000 visitors annually. The Traverse City area is also known for its wine production."
   },
   {
     "name": "Keego Harbor",
@@ -312,7 +321,8 @@
     "lat": 43.699054626988946,
     "lng": -85.48308625941318,
     "population": 8565,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Big Rapids, Michigan, is best known as the home of Ferris State University, which shapes the city with a vibrant college-town atmosphere, diverse culture, and roughly 13,000 students. Situated along the Muskegon River, it is also a hub for outdoor recreation—including fishing, kayaking, and the Big Rapids Riverwalk—and features a historic downtown area."
   },
   {
     "name": "Clawson",
@@ -361,7 +371,8 @@
     "lat": 44.24871349956678,
     "lng": -85.40451733041805,
     "population": 10521,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Cadillac Founded as Clam Lake in 1872 and renamed in 1877 after Antoine de la Mothe Cadillac, the founder of Detroit. It is the second most-populated city in the Northern Michigan region of Michigan. In October 1975, the rock group Kiss visited Cadillac and performed at the Cadillac High School gymnasium. They played the concert to honor the Cadillac High School football team."
   },
   {
     "name": "Tawas City",
@@ -375,7 +386,8 @@
     "lat": 42.642155547171626,
     "lng": -83.29137897273091,
     "population": 62528,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Pontiac, Michigan, is primarily famous as a major 20th-century hub for the American automotive industry and the birthplace of the General Motors Pontiac brand. Pontiac is also home to UWM Holdings Corp., one of the largest mortgage lenders in the U.S. In 1975, the city built the Pontiac Silverdome, the stadium that hosted the Detroit Lions of the National Football League from 1975 to 2001."
   },
   {
     "name": "Clare",
@@ -389,14 +401,16 @@
     "lat": 42.88956828920166,
     "lng": -85.60325363209466,
     "population": 54768,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Kentwood, Michigan, is a diverse, rapidly growing suburb of Grand Rapids renowned for having one of the most diverse high schools in the state, with students from over 60 countries. Its 49508 zip code was famously named the \"hottest\" in the U.S. in 2018."
   },
   {
     "name": "Marshall",
     "lat": 42.26486783997579,
     "lng": -84.97280277783229,
     "population": 6802,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Marshall is best known for its cross-section of 19th- and early 20th-century architecture and as the future home of Ford Motor Company's BlueOval Battery Park. It has been referred to by the keeper of the National Register of Historic Places as a \"virtual textbook of 19th-Century American architecture.\" Its historic center is the Marshall Historic District, one of the nation's largest architecturally significant National Historic Landmark Districts."
   },
   {
     "name": "Wyandotte",
@@ -438,7 +452,8 @@
     "lat": 43.955493472490964,
     "lng": -86.44159478619302,
     "population": 7577,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Ludington is famous for its 5,300-acre Ludington State Park, sandy beaches, and iconic lighthouses like Big Sable Point. It is a major destination for boating, fishing, and the historic S.S. Badger carferry, the last coal-fired steamship in the US. On June 8, 2019, Ludington set the Guinness World Record for the largest dessert party with 1,558 participants at Rotary Park. They also set the record for the most people simultaneously making sand angels (1,387 in 2017)."
   },
   {
     "name": "Evart",
@@ -473,7 +488,8 @@
     "lat": 42.586576286183536,
     "lng": -83.02881279866492,
     "population": 134342,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Sterling Heights, Michigan, is primarily known as a premier, safe Detroit suburb and a major hub for the automotive industry, frequently ranked among Michigan's safest cities with over 100,000 residents. It is known for its cultural diversity, top-rated school districts, and the annual Sterling Fest. The city serves as the headquarters for Jet's Pizza, a popular chain founded in 1978."
   },
   {
     "name": "Gladwin",
@@ -487,7 +503,8 @@
     "lat": 42.3084622773757,
     "lng": -83.27435843082415,
     "population": 61040,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "n inner-ring suburb of Detroit, Dearborn Heights is located about 12 miles west of downtown Detroit. The city shares a small border with Detroit, and is considered a bedroom community. Dearborn Heights was incorporated in1960. Inkster, a predominantly black community, filed a lawsuit, claiming that the shape of Dearborn Heights reflected a racial gerrymander. The Michigan Supreme Court held that Inkster had failed to demonstrate any legally cognizable harm and dismissed the lawsuit."
   },
   {
     "name": "Ionia",
@@ -501,14 +518,16 @@
     "lat": 46.45094669045456,
     "lng": -90.17290168532789,
     "population": 4938,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Ironwood is the westernmost city in Michigan."
   },
   {
     "name": "Southgate",
     "lat": 42.20610097634006,
     "lng": -83.20117893677012,
     "population": 29081,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Southgate, a \"Downriver\" community near Detroit, has a notable, somewhat quirky claim to fame as the home of the world's largest commercially available hamburger, featured at Mallie's Sports Grill & Bar. It is also known as the location of the first Sonic Drive-In in Michigan."
   },
   {
     "name": "West Branch",
@@ -522,14 +541,16 @@
     "lat": 43.228784341786586,
     "lng": -86.23468158260933,
     "population": 37287,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Situated around a harbor of Lake Michigan, Muskegon is known for fishing, sailing regattas, and boating. It is the most populous city along Lake Michigan's eastern shore. Historically known as the \"Lumber Queen of the World\" and a major industrial foundry town, it now offers diverse attractions including Michigan's Adventure amusement park, the USS Silversides Submarine Museum, and Muskegon State Park."
   },
   {
     "name": "Allegan",
     "lat": 42.53233671580362,
     "lng": -85.84093500449043,
     "population": 5152,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Allegan the county seat of Allegan County, Michigan. It lies within Allegan Township but is administratively autonomous. Allegan was named by Michigan historian Henry Rowe Schoolcraft in 1837 to sound like a Native American word. Perrigo, the largest maker of private label over-the-counter pharmaceuticals in the world, was founded in Allegan in 1887."
   },
   {
     "name": "Frankfort",
@@ -550,14 +571,16 @@
     "lat": 42.488346638361136,
     "lng": -83.0301501127344,
     "population": 137686,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Warren is the largest community in Macomb County, the third-largest city in Michigan, and Detroit's largest suburb. The city is home to a wide variety of businesses, including the General Motors Technical Center, the United States Army Detroit Arsenal, and the headquarters of Asset Acceptance. Historically, Warren was a sundown town: an all-white municipality that excluded non-whites through a combination of discriminatory practices, local ordinances, and violence."
   },
   {
     "name": "Ann Arbor",
     "lat": 42.2825481061897,
     "lng": -83.72994615127872,
     "population": 122925,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Ann Arbor is home to the University of Michigan, the oldest university in the state. Ann Arbor consistently ranks in the \"top places to live\" lists published by various mainstream media outlets every year. In 2010, a game between the Michigan Wolverines and Michigan State Spartans broke the record for the largest attendance at a hockey game in world history with 104,173 attendees."
   },
   {
     "name": "Vassar",
@@ -585,14 +608,16 @@
     "lat": 43.04905345080195,
     "lng": -86.2140805295231,
     "population": 11045,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Grand Haven, Michigan, is renowned as \"Coast Guard City, USA\" and hosts a massive annual Coast Guard Festival that attracts over 350,000 visitors. Known for its iconic red lighthouses and 1.5-mile boardwalk, it features a popular, free Musical Fountain that performs daily in the summer."
   },
   {
     "name": "Livonia",
     "lat": 42.39697057334028,
     "lng": -83.36891892927203,
     "population": 93113,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Of the seven Livonias in the U.S., the Michigan city is the largest. Among the immigrants attracted to Detroit for its industrial jobs in the 20th century have been Palestinian and Lebanese Christians, as well as Muslims. By 1985, Palestinian Christians had settled in Livonia, as well as the western suburbs of Farmington and Westland. Livonia is home to Masco Corporation, a home improvement and construction conglomerate."
   },
   {
     "name": "Novi",
@@ -606,7 +631,8 @@
     "lat": 42.57732738043721,
     "lng": -84.43940127408926,
     "population": 8314,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Mason is the county seat of Ingham County. Mason was named after Stevens T. Mason, the state's first governor. Today, it is home to the headquarters of Dart Container Corporation. Michigan Packaging Company, Gestamp Hardtech, and Ingham Intermediate School District also have facilities in the Mason area. Cattle can still be seen grazing within the city limits."
   },
   {
     "name": "Grandville",
@@ -648,14 +674,16 @@
     "lat": 42.2270674100378,
     "lng": -85.58558791563946,
     "population": 49975,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Portage is the site of Pfizer's largest manufacturing facility, at 1,300 acres. The U.S. government prepped millions of doses of Pfizer-BioNTech's COVID-19 vaccine on December 13, 2020, for shipment to sites across the nation, a mammoth logistical undertaking in support of the most complex immunization program in history."
   },
   {
     "name": "Fremont",
     "lat": 43.46229646150557,
     "lng": -85.95897104513477,
     "population": 4617,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Gerber Products Company, purveyor of baby food and baby products, is headquartered in Fremont, Michigan."
   },
   {
     "name": "Hartford",
@@ -669,7 +697,8 @@
     "lat": 42.31880219886345,
     "lng": -83.35786649383166,
     "population": 82745,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Westland, Michigan, officially incorporated on May 16, 1966, has the unique distinction of being named after the Westland Center shopping mall. Formerly known as Nankin Township, residents chose the name to reflect the popular new shopping hub and to prevent annexation by neighboring cities. It is Michigan’s 10th largest city and recognized as a \"Compassionate City\"."
   },
   {
     "name": "Orchard Lake Village",
@@ -711,7 +740,8 @@
     "lat": 41.93276837662873,
     "lng": -84.63605618041075,
     "population": 7983,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Hillsdale is best known as the home of Hillsdale College, a prominent, independent, classical liberal arts institution known for its strict refusal of federal funding. Founded in 1844, it is famous for its conservative, classical curriculum, and its history as a trailblazer for abolishing slavery and admitting students regardless of race or sex. Michael Sessions, a former mayor of Hillsdale, was among the youngest mayors in United States history. He was elected at 18, on November 8, 2005."
   },
   {
     "name": "Lincoln Park",
@@ -753,7 +783,8 @@
     "lat": 45.36649873392626,
     "lng": -85.00158604245468,
     "population": 5810,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "A popular Midwestern resort town, Petoskey is one of the northernmost cities in Michigan's Lower Peninsula. Petoskey lends its name to the Petoskey stone, a fossilized coral that is the state stone of Michigan."
   },
   {
     "name": "Imlay City",
@@ -767,7 +798,8 @@
     "lat": 43.013307570816366,
     "lng": -83.69865278174098,
     "population": 79735,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "In the mid-2000s, Flint became known for its comparatively high crime rates and has repeatedly been ranked among the most dangerous cities in the United States according to crime statistics. From 2014 to 2019, Flint faced a public health emergency due to lead contamination in parts of the local water supply as well as an outbreak of Legionnaires' disease.  The acute lead crisis has been addressed by the city, but a legacy of distrust in public authorities remains."
   },
   {
     "name": "Stanton",
@@ -802,14 +834,16 @@
     "lat": 43.41871948334117,
     "lng": -83.94575525484746,
     "population": 43001,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Known as the \"Lumber Capital of the World\" in the late 1800s, Saginaw later became a crucial hub for General Motors, featuring numerous foundries and parts plants. As part of the Rust Belt, its industry and strong manufacturing presence declined, leading to increased unemployment, crime, and a population decline. Saginaw is frequently ranked among the most dangerous cities in the U.S., with 2024-2025 data often placing it as the most violent city in Michigan and third most violent nationwide."
   },
   {
     "name": "South Haven",
     "lat": 42.39954905320947,
     "lng": -86.26446502930395,
     "population": 4017,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "South Haven is a resort town, sometimes referred to as \"The Catskills of the Midwest.\" South Haven is a major regional tourist draw because of its recreational harbor and beaches. It is the western terminus of the Kal-Haven Trail, popular with bicyclists and snowmobilers. Noted botanist Liberty Hyde Bailey was born in South Haven. His childhood home was presented to the city in the 1930s, and is now a museum."
   },
   {
     "name": "Melvindale",
@@ -851,21 +885,24 @@
     "lat": 42.508638185037796,
     "lng": -83.15518468085126,
     "population": 58251,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Royal Oak is located roughly 10 miles north of downtown Detroit. The city has one of the largest downtowns in Detroit's suburbs, and is also home to much of the Detroit Zoo, with portions extending into neighboring Huntington Woods. Royal Oak describes itself as the \"city of trees\"."
   },
   {
     "name": "Houghton",
     "lat": 47.11398566126414,
     "lng": -88.56870131408171,
     "population": 8543,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Houghton is the county seat of Houghton County. Houghton is often the host of winter sporting events, due to its long winters and many ski hills.The town is sometimes referred to by locals as \"Hoton\" or \"Ho-town.\" Houghton is home to Michigan Technological University, a public research university founded in 1885. Michigan Tech is known for producing some of the highest-earning graduates in Michigan, often recognized as a premier, \"overachieving\" STEM-focused institution."
   },
   {
     "name": "Village of Clarkston",
     "lat": 42.73285602103253,
     "lng": -83.42184335493616,
     "population": 922,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Clarkston is recognized as the smallest city in Michigan by land area, measuring only 0.44 square miles."
   },
   {
     "name": "Plymouth",
@@ -886,7 +923,8 @@
     "lat": 46.09840925050607,
     "lng": -88.64232482643528,
     "population": 3017,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "With an elevation of approximately 1,473 feet, Iron River is the most elevated incorporated city in Michigan."
   },
   {
     "name": "Laingsburg",
@@ -900,14 +938,16 @@
     "lat": 42.374834875580035,
     "lng": -83.09525221353542,
     "population": 645705,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Detroit is the only major U.S. city where you can look south into Canada. As a historic hub of innovation, it holds the first mile of concrete highway, the first four-way traffic light, and the world's first urban freeway. It is also the first U.S. city named a UNESCO City of Design."
   },
   {
     "name": "Lake Angelus",
     "lat": 42.69444902286469,
     "lng": -83.3252442062321,
     "population": 290,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Lake Angelus holds the title of smallest incorporated city in Michigan by population, with around 290 residents."
   },
   {
     "name": "Gibraltar",
@@ -970,14 +1010,16 @@
     "lat": 42.89788146615742,
     "lng": -85.7007274836309,
     "population": 78559,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Wyoming, Michigan, is the second-largest city in West Michigan and serves as the largest suburb of Grand Rapids. The manufacturing segment is unique in that it is the largest in West Michigan. It currently produces auto parts, industrial machinery, commercial printing, plastics, food processing, electronics, tool and dies, concrete supplies, and fire engines."
   },
   {
     "name": "Holland",
     "lat": 42.77391164468172,
     "lng": -86.10143799884112,
     "population": 35023,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Holland was founded by Dutch Americans and is in an area that has a large percentage of citizens of Dutch American heritage. It is home to Hope College and Western Theological Seminary, institutions of the Reformed Church in America. It is home to a number of prominent companies, including Herman Miller, Haworth, and Adient. The city also attracts thousands of visitors each year for its annual Tulip Time Festival, which celebrates the area's Dutch heritage and tulip fields."
   },
   {
     "name": "Zilwaukee",
@@ -987,7 +1029,7 @@
     "isCountySeat": false
   },
   {
-    "name": "St Johns",
+    "name": "St. Johns",
     "lat": 43.00387432655408,
     "lng": -84.55413269482315,
     "population": 7723,
@@ -998,7 +1040,8 @@
     "lat": 47.13409549026124,
     "lng": -88.5959226212096,
     "population": 4620,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Hancock is the northernmost city in Michigan. It is also consistently ranked among the top three snowiest cities in the United States, often cited as the snowiest city in the Midwest with over 200 to 211 inches of average annual snowfall."
   },
   {
     "name": "Northville",
@@ -1012,7 +1055,8 @@
     "lat": 42.67643678498831,
     "lng": -83.13660566723006,
     "population": 78330,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Rochester Hills, Michigan, was the first European settlement in Oakland County, established in 1817 as Avon Township. The city of Rochester was incorporated in 1967, while the remaining area of Avon Township was incorporated and renamed the city of Rochester Hills in 1984. Rochester Hills is known for having very low crime rates compared to state and national averages."
   },
   {
     "name": "Springfield",
@@ -1089,14 +1133,16 @@
     "lat": 41.94371142264086,
     "lng": -85.00502891496464,
     "population": 14314,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Coldwater is the county seat of Branch County. The Tibbits Opera House in Coldwater was built in 1882; it is the second-oldest theater in Michigan. Harriet Quimby who was allegedly born in coldwater was the first woman in the United States to receive a pilot's license and in 1912 the first woman to fly solo across the English Channel."
   },
   {
     "name": "Marquette",
     "lat": 46.55617836721958,
     "lng": -87.39390837365146,
     "population": 21845,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Marquette is the largest city in the Upper Peninsula of Michigan. It is also the third-largest American city on Lake Superior, behind Duluth, Minnesota and Superior, Wisconsin. Marquette is a major port known primarily for shipping iron ore from the Marquette Iron Range. The city includes several small islands (principally Middle Island, Gull Island, Lover's Island, Presque Isle Pt. Rocks, White Rocks, Ripley Rock, and Picnic Rocks) in Lake Superior."
   },
   {
     "name": "Marine City",
@@ -1106,25 +1152,28 @@
     "isCountySeat": false
   },
   {
-    "name": "St Joseph",
+    "name": "St. Joseph",
     "lat": 42.093913144893556,
     "lng": -86.48787375966175,
     "population": 7930,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Known as the \"Riviera of the Midwest,\" St. Joseph is a historic port city founded in 1679 when explorer LaSalle built Fort Miami. It was once a major 19th-century shipping hub and, along with nearby Benton Harbor, was a leading U.S. boat-building center from 1892 to 1955. From 1891 to the 1970s, it was a premier tourist destination, which is now commemorated by the modern Silver Beach Carousel. The downtown is known for being highly walkable."
   },
   {
     "name": "Grand Rapids",
     "lat": 42.953128528412954,
     "lng": -85.64751174055488,
     "population": 200117,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "The Grand Rapids metropolitan area, with over 1.18 million residents, is the 49th-largest metropolitan area in the U.S. Its economy is diversified, encompassing healthcare, education, manufacturing, and technology, with major employers such as Corewell Health, Meijer, and Steelcase. The city also hosts the annual ArtPrize, and the Frederik Meijer Gardens & Sculpture Park. Grand Rapids is also known as \"Beer City USA\". Grand Rapids was the childhood home of U.S. President Gerald Ford."
   },
   {
     "name": "Jackson",
     "lat": 42.23419809363629,
     "lng": -84.39613057499625,
     "population": 30920,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Jackson, MI was named after President Andrew Jackson. Michigan's first prison opened in Jackson in 1838 and remains in operation. Jackson was historically regarded as the \"birthplace of the Republican Party\" due to a meeting held there in 1854, during which political figures gathered to oppose the expansion of slavery. At the beginning of the 1900s, Jackson became an early automotive manufacturing center that attracted southerners and immigrants to the city's numerous factories."
   },
   {
     "name": "Reading",
@@ -1187,21 +1236,24 @@
     "lat": 42.571396156365715,
     "lng": -83.15188815565904,
     "population": 89209,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Troy is a prominent Metro Detroit city that originated from a settlement in 1819. Known as \"The City of Tomorrow, Today,\" it is recognized for the upscale Somerset Collection mall and a thriving, diverse culinary scene, particularly in Middle Eastern and Asian cuisine. The city is home to two of the largest Protestant churches in the country—Kensington and Woodside Bible Church—both having more than 10,000 members."
   },
   {
     "name": "Cheboygan",
     "lat": 45.64510456570115,
     "lng": -84.47069873655009,
     "population": 4831,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Cheboygan is the third-largest American city on Lake Huron after Port Huron and Alpena. In the late 1800s, it was a major center for lumbering, with barons shipping pine across the Great Lakes. The city features the historic Cheboygan Opera House, the Cheboygan Front Range Light, and the Bascule Bridge. The name derives from Annishinaabe words likely meaning \"a channel or passage for a canoe."
   },
   {
     "name": "Bay City",
     "lat": 43.59087426229384,
     "lng": -83.88222076622586,
     "population": 32086,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Bay City, Michigan, is best known as a historic, vibrant waterfront town on the Saginaw River and Saginaw Bay. Bay City is famous for its massive 4th of July Fireworks Festival and the USS Edson destroyer at the Saginaw Valley Naval Ship Museum. Its Water Street is home to Michigan's largest antique district"
   },
   {
     "name": "Watervliet",
@@ -1222,7 +1274,8 @@
     "lat": 43.406318033485356,
     "lng": -84.6143371479396,
     "population": 7465,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "It was long recognized that St. Louis sits at the geographic center of Michigan's lower peninsula \"as closely as can be determined.\" A campaign by Clarence and Odessa Smazel in the early 1950s, owners of the St. Louis Leader-Press, a now-defunct local newspaper, resulted in the State of Michigan designating it as such: a sign in Clapp Park on Highway M-46 denotes the city as the official \"Middle of the Mitten.\""
   },
   {
     "name": "Mt Clemens",
@@ -1306,14 +1359,16 @@
     "lat": 41.920396316220916,
     "lng": -83.39514011829367,
     "population": 20177,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "The Monroe area was the scene of several military conflicts during the War of 1812 against the United Kingdom and is known for the Battle of Frenchtown. In 1817, portions of the Frenchtown settlement along the River Raisin were platted and renamed \"Monroe\" after then-president James Monroe. Monroe is known as the childhood residence of George Armstrong Custer and other members of his family. The La-Z-Boy world headquarters are located in Monroe."
   },
   {
     "name": "Lansing",
     "lat": 42.71667549417278,
     "lng": -84.53989725946016,
     "population": 114336,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Lansing is the capital city of the U.S. state of Michigan. Founded in 1835 and designated as Michigan's state capital in 1847, Lansing was selected for its more central location after concerns about Detroit's vulnerability to British attack in the War of 1812. Cultural attractions include the Michigan State Capitol building, the Impression 5 Science Center, and Library of Michigan. Lansing is the only U.S. state capital (among the 47 located in counties) that is not also a county seat."
   },
   {
     "name": "Huntington Woods",
@@ -1334,7 +1389,8 @@
     "lat": 41.90709225968286,
     "lng": -84.05039623437952,
     "population": 20259,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Adrian, Michigan, became an important Quaker center beginning in 1831, with Underground Railroad stations operating throughout the Raisin River Valley and activists such as Laura Smith Haviland gaining national prominence. In the late 19th and early 20th centuries, Adrian was known as the “fence capital of the world” after J. Wallace Page invented the first successful wire fence, and today the city is home to Adrian College and Siena Heights University."
   },
   {
     "name": "Owosso",
@@ -1397,14 +1453,16 @@
     "lat": 42.6762014226475,
     "lng": -83.25936805587138,
     "population": 26047,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Aubirn Hills is home to BorgWarner Inc., an automotive and e-mobility supplier. The company is one of the 25 largest automotive suppliers in the world."
   },
   {
     "name": "Onaway",
     "lat": 45.35571336614282,
     "lng": -84.22812376625706,
     "population": 912,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Onaway is self-proclaimed the \"sturgeon capital of Michigan\" due to historical fishing ties and events."
   },
   {
     "name": "Grosse Pointe Park",
@@ -1425,7 +1483,8 @@
     "lat": 42.99350165779766,
     "lng": -83.6375491304987,
     "population": 29420,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Burton is a city in Genesee County, Michigan, United States and a suburb of Flint. Over the years, large portions of the northern and western sides of the township were annexed by the City of Flint for revenues."
   },
   {
     "name": "Montrose",
@@ -1467,7 +1526,8 @@
     "lat": 41.72889074651243,
     "lng": -84.22173826905862,
     "population": 2220,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Morenci directly shares a southern boundary with the state of Ohio, making it the southernmost city in Michigan."
   },
   {
     "name": "Au Gres",
@@ -1495,7 +1555,8 @@
     "lat": 42.98630091135273,
     "lng": -82.4455517898055,
     "population": 28342,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Port Huron is the largest city in The Thumb area of Michigan, and principal community in the Blue Water Area, more recently rebranded as Michigan's Thumb Coast, for tourism purposes. The city is along the Canada–United States border and directly across the river from Sarnia, Ontario. Port Huron has the easternmost point of land in the state of Michigan and is also one of the northernmost areas included in the Detroit–Warren–Dearborn Metropolitan Statistical Area (Metro Detroit)."
   },
   {
     "name": "Bronson",
@@ -1530,7 +1591,8 @@
     "lat": 42.55113878040467,
     "lng": -83.21580852486936,
     "population": 22198,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "OneStream Software is located in Birmingham."
   },
   {
     "name": "Belleville",
@@ -1572,7 +1634,8 @@
     "lat": 43.636763343021606,
     "lng": -84.24924303437649,
     "population": 42780,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Midland is the global headquarters of Dow Chemical Company, founded in 1897. The city features the nation's longest canopy walk and significant mid-century modern architecture.\nThe Mackinac Center for Public Policy is also located in Midland, specifically at 140 West Main Street. It is a nonpartisan, nonprofit research and educational institute founded in 1987 that advocates for free-market approaches to public policy."
   },
   {
     "name": "Bangor",
@@ -1600,7 +1663,8 @@
     "lat": 42.3287726600656,
     "lng": -85.20825208208166,
     "population": 52205,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Nicknamed \"Cereal City\", it is best known as the home of WK Kellogg Co and the founding city of Post Consumer Brands. In Battle Creek, the Kellogg brothers invented the first cereal by accident in an attempt to make granola. Battle Creek figured prominently in the early history of the Seventh-day Adventist Church. It was the site of a Protestant church founding convention in 1863. The denomination's first hospital, college, and publishing office would also be constructed in the city."
   },
   {
     "name": "Grosse Pointe Farms",
@@ -1663,14 +1727,16 @@
     "lat": 45.12324137301723,
     "lng": -87.61716442428005,
     "population": 8231,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Menominee is the county seat of Menominee County. It is the fourth-largest city in the Upper PeninsulaIn. 1940, during the \"Vote for Gracie\" publicity stunt in which comedian Gracie Allen ran for president, she was nominated for mayor of Menominee, but was disqualified because she was not a resident of the city. Menominee is also the headquarters and manufacturing plant of Enstrom Helicopter Corporation, a US helicopter manufacturer."
   },
   {
     "name": "Gaylord",
     "lat": 45.018567191560635,
     "lng": -84.68090546424337,
     "population": 4433,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Gaylord is the only city within Otsego County. Gaylord styles itself as an \"alpine village\" and contains many buildings in the downtown area with Tyrolean style motifs. Receiving abundant snowfall and experiencing mild summer temperatures, the area around Gaylord has long been known for its many skiing and golf resorts, one of the largest such concentrations in the Midwestern United States."
   },
   {
     "name": "Munising",
@@ -1719,7 +1785,8 @@
     "lat": 46.48973442439249,
     "lng": -84.3528043362406,
     "population": 13288,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Sault Ste. Marie is the oldest city and European settlement in Michigan, founded in 1668 by French missionaries."
   },
   {
     "name": "Olivet",
@@ -1761,14 +1828,16 @@
     "lat": 42.46141918074722,
     "lng": -83.65370586197531,
     "population": 12219,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "South Lyon, Michigan, is primarily known for the historic \"Witch's Hat Depot,\" a unique 1909 train station with a distinctive conical roof located in McHattie Park. In the past, South Lyon was known as the horse capital of Michigan, with more horses per square mile than any other part of the state."
   },
   {
     "name": "Rogers City",
     "lat": 45.41967608076236,
     "lng": -83.8055159642472,
     "population": 2890,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Rogers City, contains the largest open-pit limestone quarry in the world, the Calcite Quarry (also known as the Michigan Limestone and Chemical Company operation)."
   },
   {
     "name": "Algonac",
@@ -1796,7 +1865,8 @@
     "lat": 44.24272674981569,
     "lng": -86.32350671940688,
     "population": 6241,
-    "isCountySeat": true
+    "isCountySeat": true,
+    "funFact": "Manistee is the county seat of Manistee County. It is located on an isthmus between Manistee Lake and Lake Michigan, with the Manistee River bisecting the city as it flows west to the latter. Manistee is located along US 31, one of the major trunkline highways of the state."
   },
   {
     "name": "Sylvan Lake",
@@ -1810,7 +1880,8 @@
     "lat": 42.489316015448495,
     "lng": -83.37303665147627,
     "population": 84173,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Farmington Hills, Michigan, originated from a 19th-century Quaker settlement named \"Quakertown,\" founded by Arthur Power in 1824 after he purchased land for just $1.25 an acre. The area was a hub for abolitionists, with Nathan Power (son of the founder) serving as president of the Oakland County Antislavery Society and hosting figures like Sojourner Truth. Farmington Hills is the home of the Holocaust Memorial Center, the only Holocaust memorial in the State of Michigan."
   },
   {
     "name": "Corunna",
@@ -1873,7 +1944,8 @@
     "lat": 42.44784907586386,
     "lng": -85.64365252065355,
     "population": 3736,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Plainwell contains the Michigan Career and Technical Institute (MCTI), a public vocational school. The school exists to serve the citizens of Michigan by rehabilitating and/or training students who come from poorer communities, are recovering addicts, veterans, or have disabilities."
   },
   {
     "name": "Sturgis",
@@ -1964,6 +2036,7 @@
     "lat": 42.146664703325435,
     "lng": -84.03287676856775,
     "population": 4630,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Manchester is Michigan's newest city, transitioning from a village to a city in 2023."
   }
 ]
