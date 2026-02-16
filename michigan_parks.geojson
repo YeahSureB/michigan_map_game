@@ -1,0 +1,1475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5239,
+          42.6444
+        ]
+      },
+      "properties": {
+        "name": "Algonac State Park",
+        "Established": 1937,
+        "funFact": "Algonac State Park is a public recreation area covering 1,550 acres (630 ha) along the St. Clair River, two miles north of the city of Algonac in St. Clair County, Michigan, United States. The state park's half mile of river frontage offers a view of passing international freighters."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4647,
+          45.5194
+        ]
+      },
+      "properties": {
+        "name": "Aloha State Park",
+        "Established": 1923,
+        "funFact": "Aloha State Park is a public recreation area located six miles (9.7 km) south of Cheboygan in Cheboygan County, Michigan. The state park covers 172 acres (70 ha) on the northeast side of Mullett Lake at the center of the Inland Lakes Waterways."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9052566,
+          43.6661337
+        ]
+      },
+      "properties": {
+        "name": "Bay City State Park",
+        "Established": 1922,
+        "funFact": "Bay City State Park (previously Bay City State Recreation Area) is a 2,389-acre (967 ha) state park located on the shore of Saginaw Bay near Bay City in Bay County, Michigan, United States. The Tobico Marsh, one of the largest remaining freshwater, coastal wetlands on the Great Lakes is located in the park. The park is a haven for migratory birds and wetland wildlife. Other natural features of the park include a mile of sandy beach, over 2,000 acres (810 ha) of wetland woods, meadows, oak savannah prairies, and cattail marshes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.978055555,
+          42.338333333
+        ]
+      },
+      "properties": {
+        "name": "Belle Isle Park",
+        "Established": 1845,
+        "funFact": "Belle Isle Park, known simply as Belle Isle (), is a 982-acre (1.534 sq mi; 397 ha) island park in Detroit, Michigan, developed in the late 19th century. It consists of Belle Isle, an island in the Detroit River, as well as several surrounding islets. The U.S.-Canada border is in the channel south of Belle Isle. Owned by the city of Detroit, Belle Isle is managed as a state park by the Michigan Department of Natural Resources through a 30-year lease initiated in 2013; it was previously a city park. Belle Isle Park is the largest city-owned island park in the United States, and Belle Isle is the third largest island in the Detroit River, after Grosse Ile and Fighting Island. Belle Isle is the second most-visited state park in the U.S., after Niagara Falls State Park in New York. It is connected to mainland Detroit by the MacArthur Bridge. Belle Isle Park is home to the Belle Isle Aquarium, the Belle Isle Conservatory, the Belle Isle Nature Center, the James Scott Memorial Fountain, the Dossin Great Lakes Museum, a municipal golf course, a half-mile (800 m) swimming beach, and numerous other monuments and attractions. It is also the site of a Coast Guard station. The Detroit Yacht Club is located on an adjacent island, connected to Belle Isle by a bridge."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5564,
+          46.4161
+        ]
+      },
+      "properties": {
+        "name": "Brimley State Park",
+        "Established": 1923,
+        "funFact": "Brimley State Park is a public recreation area covering approximately 100 acres (40 ha) on the shore of Whitefish Bay at the far eastern end of Lake Superior in the U.S. state of Michigan. The state park is located on the northeast side of the Village of Brimley, eleven miles southwest of Sault Ste. Marie. To help create the park, the Village of Brimley gave an initial 38 acres (15 ha) to the Michigan Department of Natural Resources in 1923. The park offers an observation platform as well as facilities for camping, picnicking, swimming, fishing, and boating."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6344,
+          45.3961
+        ]
+      },
+      "properties": {
+        "name": "Burt Lake State Park",
+        "Established": 1920,
+        "funFact": "Burt Lake State Park is a public recreation area covering approximately 125 acres (51 ha) on the south shore of Burt Lake at Indian River in Cheboygan County, Michigan. The state park features 2,000 feet (610 m) of sandy shoreline, swimming and boating access to the Inland Lakes Waterway, fishing on the Sturgeon River and Burt Lake, and camping facilities."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4083,
+          45.65
+        ]
+      },
+      "properties": {
+        "name": "Cheboygan State Park",
+        "Established": 1962,
+        "funFact": "Cheboygan State Park is a 1,250-acre (510 ha) public recreation area on Lake Huron in Cheboygan County, Michigan, United States. The state park offers nearly 4 miles (6.4 km) of shoreline with opportunities for swimming, fishing, boating, and hiking in addition to views of the Fourteen Foot Shoal Light, the ruins of the 1859 Cheboygan Point Light, and a distant view of the Poe Reef Light, some six miles to the northeast."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3933,
+          43.3475
+        ]
+      },
+      "properties": {
+        "name": "Duck Lake State Park",
+        "Established": 1988,
+        "funFact": "Duck Lake State Park is a public recreation area covering 728 acres (295 ha) on Lake Michigan five miles (8.0 km) southwest of Whitehall in Muskegon County, Michigan. The state park, which runs along the north side of Duck Lake to Lake Michigan, features a large sand dune. The park's Scenic Drive is part of the Shoreline Trail route in Muskegon County."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9092899,
+          47.9958654
+        ]
+      },
+      "properties": {
+        "name": "Isle Royale National Park",
+        "Established": 1940,
+        "funFact": "Isle Royale National Park is a national park of the United States consisting of Isle Royale, along with more than 400 small adjacent islands and the surrounding waters of Lake Superior, in Michigan. Isle Royale is 45 mi (72 km) long and 9 mi (14 km) wide, with an area of 206.73 sq mi (535.4 km2), making it the fifth-largest lake island in the world. In addition, it is the largest natural island in Lake Superior, the second-largest island in the Great Lakes (after Manitoulin Island), the third-largest in the contiguous United States (after Long Island and Padre Island), and the 33rd-largest island in the United States. Isle Royale National Park was established on April 3, 1940, then additionally protected from development by wilderness area designation in 1976, declared a UNESCO International Biosphere Reserve in 1980, and added to the National Register of Historic Places in 2019 as the Minong Traditional Cultural Property. The park covers 894 sq mi (2,320 km2), with 209 sq mi (540 km2) of land and 685 sq mi (1,770 km2) of surrounding waters. The park's northern boundary lies adjacent to the Canadian Lake Superior National Marine Conservation Area along the international border. With 25,894 visits in 2021, it is the seventh least-visited National Park in the United States."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5003,
+          46.7606
+        ]
+      },
+      "properties": {
+        "name": "Baraga State Park",
+        "Established": null,
+        "funFact": "Baraga State Park is a public recreation area covering 56 acres (23 ha) on the shore of Lake Superior's Keweenaw Bay in Baraga County, Michigan. The state park sits along Route 41 on the south side of the village of Baraga. The park, village, and county bear the name of Bishop Frederic Baraga."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4322,
+          46.0903
+        ]
+      },
+      "properties": {
+        "name": "Bewabic State Park",
+        "Established": 1923,
+        "funFact": "Bewabic State Park is a public recreation area covering 315 acres (127 ha) on the shore of Fortune Lake (First Lake), four miles (6.4 km) west of Crystal Falls in Iron County, Michigan. The state park's rich Civilian Conservation Corps history is evidenced by the CCC structures still in use. The park was listed on the National Register of Historic Places for its CCC-related architecture in 2016."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.225,
+          42.052222222
+        ]
+      },
+      "properties": {
+        "name": "Cambridge Junction Historic State Park",
+        "Established": null,
+        "funFact": "Cambridge Junction Historic State Park is a historical preservation area 3 miles (4.8 km) south of Brooklyn in Cambridge Township, Michigan, that includes Walker Tavern, a major stopping place for stagecoaches traveling between Detroit and Chicago in the early nineteenth century. The tavern is operated seasonally by the Michigan History Center. The 80-acre state park includes two additional historic structures: a reconstructed barn with artifacts and exhibits about people, travel and work in the mid-19th century, and the 1929 Hewitt House Visitors Center which focuses on early auto tourism and has displays about well-known 20th-century roadside tourist attractions in the Irish Hills. Additionally, a 1-mile hiking trail encircles the park, crossing both wetlands and forested areas."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9764,
+          41.8042
+        ]
+      },
+      "properties": {
+        "name": "Coldwater Lake State Park",
+        "Established": 1988,
+        "funFact": "Coldwater Lake State Park is an undeveloped public recreation area occupying 400 acres (160 ha) on the south shore of Coldwater Lake, ten miles (16 km) south of the city of Coldwater in Branch County, Michigan. Money from the Natural Resources Trust Funds was used to create the state park in 1988. Two small, unpaved parking areas offer walk-in access for hunters and fishermen. A general management plan for the park was adopted by the Michigan State Parks Advisory Committee in 2015."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1781,
+          46.6119
+        ]
+      },
+      "properties": {
+        "name": "Craig Lake State Park",
+        "Established": null,
+        "funFact": "Craig Lake State Park is a remote public recreation area covering 9,732 acres (3,938 ha) in Baraga County in the Upper Peninsula of the state of Michigan. The state park has several lakes that are accessible only by foot or paddling."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66111,
+          45.71667
+        ]
+      },
+      "properties": {
+        "name": "Fayette Historic State Park",
+        "Established": 1959,
+        "funFact": "Fayette Historic State Park is a historic preservation and public recreation area encompassing the historic town of Fayette in the U.S. state of Michigan. It is located on the Big Bay de Noc of Lake Michigan, between Snail Shell Harbor and Sand Bay, on the southern side of the Upper Peninsula, about 17 miles south of US 2. Fayette was the site of an industrial community that manufactured charcoal pig iron between 1867 and 1891. The town has been reconstructed into a living museum, showing what life was like in this town in the late 19th century. It was listed on the National Register of Historic Places in 1970."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.36111,
+          45.26667
+        ]
+      },
+      "properties": {
+        "name": "Fisherman's Island State Park",
+        "Established": null,
+        "funFact": "Fisherman's Island State Park is a public recreation area sitting on six miles of Lake Michigan shoreline southwest of Charlevoix. For most of the period from 1998 to 2016, historically low lake levels resulted in the island becoming attached to the mainland via a tombolo. The park's interior terrain consists largely of rolling dunes covered with maple, birch and aspen broken up by bogs of cedar and black spruce."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.869722222,
+          47.467222222
+        ]
+      },
+      "properties": {
+        "name": "Fort Wilkins Historic State Park",
+        "Established": 1923,
+        "funFact": "Fort Wilkins Historic State Park is a historic preservation and public recreation area operated by the Michigan Department of Natural Resources at Copper Harbor, Michigan. The park preserves the restored 1844 army military outpost, Fort Wilkins, which was placed on the National Register of Historic Places in 1970. The state park's 987 acres (399 ha) include camping and day-use facilities as well as the Copper Harbor Lighthouse, built in 1866. The park is a \"Cooperating Site\" of the Keweenaw National Historical Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.600833333,
+          45.466111111
+        ]
+      },
+      "properties": {
+        "name": "Gete Mino Mshkiigan State Park",
+        "Established": null,
+        "funFact": "Gete Mino Mshkiigan, pronounced “geh-teh-mino-mush-key-gun,” is an undeveloped state park located in Cheboygan County in the U.S. state of Michigan. The park occupies 147 acres (59 ha) along the shores of Mullett Lake. The North Central State Trail, a 75-mile long state-owned rail trail, runs through the property close to the shoreline of the lake. The shoreline itself consists of 1,500 feet of undeveloped lakefront. According to the Michigan Department of Natural Resources (DNR), \"the undulating terrain is dominated by mixed coniferous/deciduous forest, with approximately 35% of the land identified as emergent wetlands.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2464,
+          43.0536
+        ]
+      },
+      "properties": {
+        "name": "Grand Haven State Park",
+        "Established": 1920,
+        "funFact": "Grand Haven State Park is a public recreation area on the shores Lake Michigan on the south side of the mouth of the Grand River and harbor in Grand Haven, Michigan. The state park encompasses 48 acres (19 ha) consisting entirely of beach sand. It features camping and beach activities along with scenic views of the Grand Haven South Pierhead Entrance Light and Grand Haven South Pierhead Inner Light."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5497,
+          41.9931
+        ]
+      },
+      "properties": {
+        "name": "Grand Mere State Park",
+        "Established": null,
+        "funFact": "Grand Mere State Park is a public recreation and nature preservation area in the southwestern part of the U.S. state of Michigan near Stevensville. The state park is located adjacent to Interstate 94. Protected from Lake Michigan by the dunes to the west, the park has many natural features not found throughout the rest of the state. In 1968 it was designated a National Natural Landmark."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2944,
+          44.6475
+        ]
+      },
+      "properties": {
+        "name": "Harrisville State Park",
+        "Established": 1921,
+        "funFact": "Harrisville State Park is a public recreation area covering 107 acres (43 ha) on the shore of Lake Huron off U.S. Route 23 in Harrisville and Harrisville Township, Alcona County, Michigan. The state park contains more than 100 acres of heavily forested land as well as a mile-long sandy beach. It is considered an important location for birders, with large and varied migratory populations of warblers and other song birds. The park is administered by the Michigan Department of Natural Resources."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6686,
+          44.7472
+        ]
+      },
+      "properties": {
+        "name": "Hartwick Pines State Park",
+        "Established": 1927,
+        "funFact": "Hartwick Pines State Park is a public recreation area covering 9,335 acres (3,778 ha) in Crawford County near Grayling and Interstate 75 on the Lower Peninsula of the U.S. state of Michigan. The state park contains an old-growth forest of white pines and red pines, known as the Hartwick Pines. It is claimed by the Michigan Department of Natural resources that this old growth area, along with the Red Pine Natural Area Preserve in Roscommon County resembles the appearance of all Northern Michigan prior to the logging era. These areas do, however, lack the reoccurring low intensity fires which once occurred throughout northern Michigan, impacting regeneration of red pine and eastern hemlock, as well as leading to an increased content of hardwood species such as sugar maple and beech."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1375,
+          42.0625
+        ]
+      },
+      "properties": {
+        "name": "Hayes State Park",
+        "Established": 1920,
+        "funFact": "Walter J. Hayes State Park is a public recreation area covering 654 acres (265 ha) on the southeast corner of Wamplers Lake in the Irish Hills region of the state of Michigan. Most of the state park lies within Lenawee County with a small portion extending into Jackson and Washtenaw counties in the Round Lake area. The park offers access to 796-acre (322 ha) Wamplers Lake and completely surrounds 100-acre (40 ha) Round Lake, which connects to Wamplers Lake via a channel navigable by smaller boats. Other scenic lakes including Evans Lake and Sand Lake as well as chains of smaller lakes lie nearby. The park is traversed by Michigan Route 124 north of its intersection with US Highway 12."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.88,
+          45.4625
+        ]
+      },
+      "properties": {
+        "name": "Hoeft State Park",
+        "Established": 1921,
+        "funFact": "P. H. Hoeft State Park is a public recreation area on the shores of Lake Huron, four miles (6.4 km) northwest of Rogers City on US 23 in Presque Isle County, Michigan. The park was added to the National Register of Historic Places in 2009."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.265,
+          43.1239
+        ]
+      },
+      "properties": {
+        "name": "Hoffmaster State Park",
+        "Established": null,
+        "funFact": "P. J. Hoffmaster State Park is a public recreation area on the shores of Lake Michigan located five miles north of Grand Haven at the southwest corner of Norton Shores, in Muskegon County, and the northwest corner of Spring Lake Township, in Ottawa County, in the U.S. state of Michigan. The state park's 1,200 acres (490 ha) of land include three miles (4.8 km) of sand beach on the lake. It is operated by the Michigan Department of Natural Resources."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2047,
+          42.7789
+        ]
+      },
+      "properties": {
+        "name": "Holland State Park",
+        "Established": 1926,
+        "funFact": "Holland State Park is a public recreation area covering 142 acres (57 ha) in Park Township, Ottawa County, four miles (6 km) west of the city of Holland, Michigan. The state park consists of separate Lake Macatawa and Lake Michigan units on the northern side of the channel connecting Lake Macatawa with Lake Michigan. It is often the most visited state park in Michigan, receiving between 1.5 and 2 million visitors annually."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.331666666,
+          45.943888888
+        ]
+      },
+      "properties": {
+        "name": "Indian Lake State Park",
+        "Established": 1932,
+        "funFact": "Indian Lake State Park can refer to either of two state parks in the United States: Indian Lake State Park (Michigan) Indian Lake State Park (Ohio)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7628,
+          44.6278
+        ]
+      },
+      "properties": {
+        "name": "Interlochen State Park",
+        "Established": 1917,
+        "funFact": "Interlochen State Park is a public recreation area covering 187 acres (76 ha) on the isthmus between Green Lake and Duck Lake in Grand Traverse County, Michigan. The park offers swimming, year-round fishing, picnicking, camping, and boat launches."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5761,
+          46.4575
+        ]
+      },
+      "properties": {
+        "name": "Lake Gogebic State Park",
+        "Established": 1930,
+        "funFact": "Lake Gogebic State Park is a public recreation area covering 360 acres (150 ha) in the Upper Peninsula of Michigan. The state park sits on the western shore of Lake Gogebic, the largest inland lake in the Upper Peninsula. The land around the park is sparsely populated, and relatively flat."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4967,
+          43.1242
+        ]
+      },
+      "properties": {
+        "name": "Lakeport State Park",
+        "Established": 1946,
+        "funFact": "Lakeport State Park is a public recreation area on the shores of Lake Huron in St. Clair County, Michigan. The state park consists of two units on either side of the community of Lakeport within Burtchville Township. Two campgrounds, beachfront, and camp store are on the north side, and a picnic area and beachfront are on the south side."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.066194444,
+          46.389722222
+        ]
+      },
+      "properties": {
+        "name": "Laughing Whitefish Falls State Park",
+        "Established": null,
+        "funFact": "Laughing Whitefish Falls State Park is a public recreation area protecting 960 acres (390 ha) along the Laughing Whitefish River in Onota Township and Rock River Township, in far western Alger County, Michigan. Its main scenic feature is Laughing Whitefish Falls, a 100-foot fan-shaped cascade located in the southern part of the site, in Rock River Township, eight miles (13 km) south of Lake Superior and three miles north of M-94."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5622,
+          45.1864
+        ]
+      },
+      "properties": {
+        "name": "Leelanau State Park",
+        "Established": 1964,
+        "funFact": "Leelanau State Park is a public recreation area covering 1,550 acres (630 ha) on the Leelanau Peninsula in Leelanau County, Michigan. The state park encompasses the tip of the peninsula and is the home of the Grand Traverse Lighthouse."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5043,
+          44.0412
+        ]
+      },
+      "properties": {
+        "name": "Ludington State Park",
+        "Established": null,
+        "funFact": "Ludington State Park is a public recreation area located two miles north of Ludington, Michigan, occupying 4,800 acres (1,900 ha) between the shores of Lake Michigan and Hamlin Lake. The state park is crossed by a one-mile stretch of the Big Sable River and is home to the 112-foot-high (34 m) Big Sable Point Lighthouse, which dates from 1876."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6167,
+          45.8667
+        ]
+      },
+      "properties": {
+        "name": "Mackinac Island State Park",
+        "Established": 1875,
+        "funFact": "Mackinac Island State Park is a state park located on Mackinac Island in the U.S. state of Michigan. A Lake Huron island, it is near the Straits of Mackinac. The island park encompasses 1,800 acres (7.3 km2), which is approximately 80% of the island's total area. The park is also within the boundaries of the city of Mackinac Island and has permanent residents within its boundaries. M-185 circles the perimeter of the park as the only motorless highway in the state due to the island's ban of automobiles. The park is governed by the Michigan Department of Natural Resources and the Mackinac Island State Park Commission. On July 15, 2009, the park celebrated its 20 millionth visitor. The park was first established as Mackinac National Park in 1875, which was the second national park established in the United States after Yellowstone National Park. In 1895, it was transferred to state control and reorganized as Mackinac Island State Park, which was the first state park in Michigan. The park contains many important historical and geological features, such as Fort Mackinac, Fort Holmes, other historic buildings, historic sites, limestone caves, and other unique rock formations. The park also operates the Mackinac Island Airport. Many of these sites are formally operated by the Mackinac Island State Park Commission, which also operates two other parks around the Straits of Mackinac area: Colonial Michilimackinac and Historic Mill Creek Discovery Park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.535,
+          42.4289
+        ]
+      },
+      "properties": {
+        "name": "Maybury State Park",
+        "Established": 1975,
+        "funFact": "Maybury State Park is a public recreation area in Northville Township, Wayne County, Michigan composed of 944 acres (382 ha) of gently rolling terrain, open meadow, and mature forest. The park gives people in the nearby metropolitan area an opportunity to get involved in outdoor recreation activities in a state park setting. Lying adjacent to the park, Maybury Farm is operated as a separate facility by the Northville Community Foundation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6073,
+          47.2368
+        ]
+      },
+      "properties": {
+        "name": "McLain State Park",
+        "Established": null,
+        "funFact": "F.J. McLain State Park is a 443-acre (179 ha) public recreation area on the Keweenaw Peninsula in Houghton County, Michigan. The state park is located on M-203 halfway between Hancock and Calumet. It is about 10 miles (16 km) from each city. The park's offshore sights include sunsets over Lake Superior and the art deco–style Keweenaw Waterway Upper Entrance Light."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4377,
+          43.7834
+        ]
+      },
+      "properties": {
+        "name": "Mears State Park",
+        "Established": 1923,
+        "funFact": "Charles Mears State Park is a public recreation area in the village of Pentwater, Oceana County, Michigan. The state park encompasses 50 acres (20 ha) on the north side of the channel that connects Lake Michigan and Pentwater Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3637,
+          42.4239
+        ]
+      },
+      "properties": {
+        "name": "Meridian-Baseline State Park",
+        "Established": null,
+        "funFact": "Meridian-Baseline State Park is a historic preservation area covering 108 acres (44 ha) in Ingham County and Jackson County, Michigan, containing the intersection of the Michigan meridian and the baseline used for the Michigan Survey. The state park has two monuments that show where the two mismatched baselines meet the principal meridian at the North Initial Point and South Initial Point."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7356,
+          45.7869
+        ]
+      },
+      "properties": {
+        "name": "Fort Michilimackinac State Park",
+        "Established": null,
+        "funFact": "Fort Michilimackinac State Park is a state park in the U.S. state of Michigan. It is located in Mackinaw City along the Straits of Mackinac. The park contains Fort Michilimackinac, which itself is dedicated a National Historic Landmark and Old Mackinac Point Lighthouse as well as the Old Mackinac Point Lighthouse Signal Tower which contains a foghorn."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4522,
+          44.238
+        ]
+      },
+      "properties": {
+        "name": "Mitchell State Park",
+        "Established": 1919,
+        "funFact": "William Mitchell State Park is a public recreation area covering 660 acres (270 ha) on the southwest side of Cadillac in northern lower Michigan. The state park is located between Lake Mitchell and Lake Cadillac. The historic Clam Lake Canal, approximately one-third of a mile in length, connects the two lakes and runs directly through the park. Dug in 1873 at the direction of city father George A. Mitchell, the canal allowed felled trees to be floated from Lake Mitchell to lumber mills on Lake Cadillac."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6358,
+          46.6764
+        ]
+      },
+      "properties": {
+        "name": "Muskallonge Lake State Park",
+        "Established": 1957,
+        "funFact": "Muskallonge Lake State Park is a state park located in Luce County in the U.S. state of Michigan. It is located in Deer Park about 16 miles (25.7 km) east of Grand Marais along H-58. The park encompasses 217 acres (87.8 ha) between the shores of Lake Superior and Muskallonge Lake where Native Americans once had an encampment and where a station of the United States Life-Saving Service once stood."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.344,
+          43.2463
+        ]
+      },
+      "properties": {
+        "name": "Muskegon State Park",
+        "Established": 1923,
+        "funFact": "Muskegon State Park is a public recreation area located four miles (6.4 km) west of North Muskegon in Muskegon County, Michigan. The park's 1,233 acres (499 ha) encompass two miles of sand beach on Lake Michigan and one mile of beach on Muskegon Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3269,
+          44.8561
+        ]
+      },
+      "properties": {
+        "name": "Negwegon State Park",
+        "Established": 1962,
+        "funFact": "Negwegon State Park is an undeveloped public recreation area on Lake Huron lying five miles (8.0 km) southeast of the unincorporated community of Ossineke in Alpena County and Alcona County, Michigan. The state park's 4,118 acres (1,666 ha) occupy the southern tip of Thunder Bay, fourteen miles (23 km) across the water from the city of Alpena. The park includes lowland areas with small ridges, mature pine forest, open meadows, and a long sand beach. It is administered by the Michigan Department of Natural Resources with support from the volunteer \"Friends of Negwegon.\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.591,
+          43.5018
+        ]
+      },
+      "properties": {
+        "name": "Newaygo State Park",
+        "Established": 1966,
+        "funFact": "Newaygo State Park is a public recreation area covering 400 acres (160 ha) on the south side of Hardy Dam Pond in Big Prairie Township, Newaygo County, Michigan. The state park sits atop 20-foot (6.1 m) embankments overlooking the six-mile-long (10 km), 4,000-acre (1,600 ha) impoundment of the Muskegon River."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7578,
+          44.5139
+        ]
+      },
+      "properties": {
+        "name": "North Higgins Lake State Park",
+        "Established": null,
+        "funFact": "North Higgins Lake State Park is a public recreation area located nine miles (14 km) west of Roscommon in Beaver Creek Township, Crawford County, Michigan. The state park occupies 449 acres (182 ha) on the north shore of Higgins Lake at the site of what was once one of the world's largest seedling nurseries."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.361,
+          47.5492
+        ]
+      },
+      "properties": {
+        "name": "Old Mission State Park",
+        "Established": 1975,
+        "funFact": "Coeur d'Alene's Old Mission State Park is a heritage-oriented state park in northern Idaho in the western United States, preserving the Mission of the Sacred Heart, or Cataldo Mission, a national historic landmark. The park contains the church itself, the parish house, and the surrounding property. Built in 1850–1853, Mission of the Sacred Heart is the oldest standing building in Idaho. It was designated a National Historic Landmark in 1961, and put on the National Register of Historic Places in 1966."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2292,
+          45.4314
+        ]
+      },
+      "properties": {
+        "name": "Onaway State Park",
+        "Established": null,
+        "funFact": "Onaway State Park is a public recreation area covering 158 acres (64 ha) on the southeast shore of Black Lake in North Allis Township, Presque Isle County, Michigan. The state parks sits at the end of M-211 five miles north of Onaway. It contains sand and cobblestone beaches, large rock outcroppings, a campground, and nature trail highlighting a diversity of trees. The park was added to the National Register of Historic Places in 2009."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3141,
+          44.2786
+        ]
+      },
+      "properties": {
+        "name": "Orchard Beach State Park",
+        "Established": 1921,
+        "funFact": "Orchard Beach State Park is a public recreation area covering 201 acres (81 ha) on the shore of Lake Michigan in Manistee Township, Manistee County, Michigan. Situated on a bluff three miles north of the city of Manistee, the state park offers camping, hiking trails, and scenic views over Lake Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6898,
+          44.9305
+        ]
+      },
+      "properties": {
+        "name": "Otsego Lake State Park",
+        "Established": 1920,
+        "funFact": "Otsego Lake State Park is a public recreation area covering 62 acres (25 ha) on the southeast shore of Otsego Lake in Otsego Lake Township, Otsego County, Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3783,
+          46.0077
+        ]
+      },
+      "properties": {
+        "name": "Palms Book State Park",
+        "Established": 1926,
+        "funFact": "Palms Book State Park is a publicly owned nature preserve encompassing 388 acres (157 ha) in Thompson Township, Schoolcraft County, in the eastern Upper Peninsula of Michigan. The state park is noted for Kitch-iti-kipi, the \"Big Spring\" of the Upper Peninsula."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9075,
+          45.403
+        ]
+      },
+      "properties": {
+        "name": "Petoskey State Park",
+        "Established": 1969,
+        "funFact": "Petoskey State Park is a public recreation area covering 303 acres (123 ha) on Lake Michigan in Bear Creek Township, Emmet County, Michigan. The state park is located three miles (4.8 km) northeast of the city of Petoskey on Little Traverse Bay. It is surrounded by heavily vegetated sand dunes that are excellent examples of parabolic dunes. Michigan's state stone, the Petoskey stone, can be found on the park beach."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.754166666,
+          46.782222222
+        ]
+      },
+      "properties": {
+        "name": "Porcupine Mountains Wilderness State Park",
+        "Established": 1984,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.055,
+          44.0047
+        ]
+      },
+      "properties": {
+        "name": "Port Crescent State Park",
+        "Established": 1959,
+        "funFact": "Port Crescent State Park is a public recreation area on Lake Huron five miles (8.0 km) southwest of Port Austin in Huron County at the tip of The Thumb of Michigan. The state park covers 640 acres (260 ha) along state route M-25 in Hume Township. The park occupies the site of Port Crescent, a ghost town which once stood at the mouth of the Pinnebog River. The park was designated a Michigan \"dark sky preserve\" in 2012."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0186,
+          43.6578
+        ]
+      },
+      "properties": {
+        "name": "Sanilac Petroglyphs Historic State Park",
+        "Established": 1971,
+        "funFact": "Sanilac Petroglyphs Historic State Park is a historic preservation area in the U.S. state of Michigan. The state park, also known as ezhibiigadek asin (Ojibwe for \"written on stone\"), consists of 240 acres (97 ha) in Greenleaf Township, Sanilac County, in Michigan's Thumb. It contains the largest collection of Native American petroglyphs in Michigan. The carvings were created in the pre-Columbian era and represent aspects of Native American spirituality. An interpretive hiking trail within the park passes along the nearby Cass River. The park is co-managed by the Michigan Department of Natural Resources and the Saginaw Chippewa Nation. It was donated to the state by the Michigan Archaeological Society in 1971, and it is listed on the National Register of Historic Places."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1997,
+          42.7033
+        ]
+      },
+      "properties": {
+        "name": "Saugatuck Dunes State Park",
+        "Established": 1978,
+        "funFact": "Saugatuck Dunes State Park is a public recreation area covering 1,000 acres (400 ha) on the shore of Lake Michigan between Saugatuck and Holland in Allegan County, Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6681,
+          42.809
+        ]
+      },
+      "properties": {
+        "name": "Seven Lakes State Park",
+        "Established": 1969,
+        "funFact": "Seven Lakes State Park is a public recreation area covering 1,434 acres (580 ha) one mile northwest of Holly in Holly Township, Oakland County, Michigan. The state park's 230 acres (93 ha) of water are found in six named lakes that include 170-acre Big Seven Lake, Little Seven Lake, and 44-acre Dickinson Lake."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4128,
+          42.9386
+        ]
+      },
+      "properties": {
+        "name": "Sleepy Hollow State Park",
+        "Established": 1976,
+        "funFact": "Sleepy Hollow State Park is a public recreation area covering 2,678 acres (1,084 ha) in the townships of Ovid and Victor in Clinton County, Michigan. The state park is located off US-127 nine miles southeast of St. Johns and four miles northwest of Laingsburg and centers on man-made, 410-acre (170 ha) Lake Ovid."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6689,
+          44.4258
+        ]
+      },
+      "properties": {
+        "name": "South Higgins Lake State Park",
+        "Established": 1927,
+        "funFact": "South Higgins Lake State Park is a public recreation area covering 1,364 acres (552 ha) on the southern shore of Higgins Lake five miles southwest of Roscommon in Roscommon County, Michigan. The state park occupies one mile of shoreline on Higgins Lake and entirely surrounds Marl Lake and portions of the Cut River."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3336,
+          41.9156
+        ]
+      },
+      "properties": {
+        "name": "Sterling State Park",
+        "Established": 1935,
+        "funFact": "William C. Sterling State Park is a public recreation area located in Frenchtown Charter Township with a small portion lying within the city limits of Monroe, Michigan. It is the only Michigan state park located on Lake Erie. The park encompasses 1,300 acres (530 ha) of mostly man-made lagoons and beachfront near the mouth of Sandy Creek. The main attractions at the park include a 256-site campground, beach area, boat launch, and shore fishing lagoons. There are over seven miles (11 km) of biking and hiking trails within the park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7194,
+          45.8528
+        ]
+      },
+      "properties": {
+        "name": "Straits State Park",
+        "Established": null,
+        "funFact": "Straits State Park is a state park in the U.S. state of Michigan located in Moran Township and St. Ignace in Mackinac County on the northern shores of the Straits of Mackinac. The Father Marquette National Memorial and park is also located within the state park boundaries. The park has 255 campsites and several locations for viewing the Mackinac Bridge."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.272222222,
+          44.711666666
+        ]
+      },
+      "properties": {
+        "name": "Sturgeon Point State Park",
+        "Established": null,
+        "funFact": "Sturgeon Point State Park is an undeveloped public recreation area that is home to the historic Sturgeon Point Light. The state park covers 76 acres (31 ha) on the shore of Lake Huron three miles (4.8 km) north of Harrisville in Alcona County, Michigan. In addition to the lighthouse and associated museum, the park features a long and shallow reef that juts into Lake Huron and extends for almost a full mile. The park is used for lighthouse visits, swimming, and viewing various Michigan flora and fauna."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2083,
+          46.5964
+        ]
+      },
+      "properties": {
+        "name": "Tahquamenon Falls State Park",
+        "Established": null,
+        "funFact": "The Tahquamenon Falls State Park is a 46,179-acre (18,688 ha) public recreation area in the U.S. state of Michigan. It is the second largest of Michigan's state parks. Bordering on Lake Superior, most of the park is located within Whitefish Township in Chippewa County, with the western section of the park extending into McMillan Township in Luce County. The nearest town of any size is Paradise. The park follows the Tahquamenon River as it passes over Tahquamenon Falls and drains into Whitefish Bay, Lake Superior. The Tahquamenon Falls include a single 50-foot (15 m) drop, the Upper Falls, plus the cascades and rapids collectively called the Lower Falls. During the late-spring runoff, the river drains as much as 50,000 U.S. gallons (190,000 L) of water per second, making the upper falls the second most voluminous vertical waterfall east of the Mississippi River, after only Niagara Falls. Tahquamenon Falls is also called Rootbeer Falls because of its golden-brown color, caused by tannins from cedar swamps that drain into the river. In winter, the ice that accumulates around and in the falls is often colored in shades of green and blue. The park receives as many as 500,000 visitors per year, many of whom drive in on the state park's only paved road, M-123. M-123 intersects with Interstate 75 at exit 352. The North Country Trail passes through the park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4461,
+          44.2556
+        ]
+      },
+      "properties": {
+        "name": "Tawas Point State Park",
+        "Established": 1961,
+        "funFact": "Tawas Point State Park is a public recreation area located on Lake Huron in Northern Michigan near the city of East Tawas, Michigan. The state park encompasses 183 acres (74 ha) at the end of a sand spit that forms Tawas Bay. It has been referred to as the \"Cape Cod of the Midwest\" and is a notable bird-watching site. The park is home to the Tawas Point Light, which, although it has been remodeled several times, serves as the sole representative of a true Victorian-era style station built on the Great Lakes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.568,
+          45.3417
+        ]
+      },
+      "properties": {
+        "name": "Thompson's Harbor State Park",
+        "Established": null,
+        "funFact": "Thompson's Harbor State Park is a remote and largely undeveloped public recreation area on Lake Huron covering 5,109 acres (2,068 ha) in Presque Isle County, Michigan. The state park's seven point five miles (12.1 km) of pristine shoreline encompass a varying terrain of second growth forest, limestone cobble beaches, and deep sand dunes. The park's flora and fauna include a large population of dwarf lake iris as well as more than one hundred bird species, coyotes, deer, and possibly black bear. The park offers six miles (9.7 km) of trails for hikers and cross-country skiers, rustic cabins, and opportunities for sea kayaking. The park was designated a Michigan \"dark sky preserve\" in 2016."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9842,
+          46.5239
+        ]
+      },
+      "properties": {
+        "name": "Van Riper State Park",
+        "Established": 1925,
+        "funFact": "Van Riper State Park is a public recreation area located in the Upper Peninsula of the U.S. state of Michigan, 17 miles (27 km) west of Ishpeming on US Highway 41. The state park's 1,100 acres (450 ha) lie partly in Michigamme Township and partly in Champion Township, both in Marquette County. The park has about 1.5 miles (2.4 km) of frontage along the eastern shores of Lake Michigamme, and 1.5 miles (2.4 km) of frontage along the shores of the Peshekee River."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5933,
+          41.9153
+        ]
+      },
+      "properties": {
+        "name": "Warren Dunes State Park",
+        "Established": null,
+        "funFact": "Warren Dunes State Park is a 1,500-acre (610 ha) public recreation area located along the eastern shore of Lake Michigan in Berrien County, Michigan. The state park's large sand dunes and lakeshore beaches make it one of the most popular of Michigan's state parks. Large sand dunes are found throughout the park. Among the park's dunes are Mt. Fuller, Pikes Peak, and Mt. Edwards, with the most significant being Tower Hill, the highest point in the park, which stands 240 feet (73 meters) above the Lake Michigan. Easy access to the dunes make it a popular location to practice the sport of sandboarding. The park offers eight miles of trails, swim beach, beach house, picnicking, playground, two campgrounds (Hilldebrandt Semi-Modern and Mt. Randall Modern), concession store, metal detecting, cross-country skiing, and hunting. The dunes and beach area were preserved by a local businessman, Edward K. Warren, as a conservation measure. He originally purchased the site as a favor to a friend who had encountered significant financial difficulties. Previous ownership of Tower Dune and surroundings had been by J.S. Pardee in the late 1800s. In 1930, the Warren Dunes area became a Michigan state park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6222,
+          41.8333
+        ]
+      },
+      "properties": {
+        "name": "Warren Woods State Park",
+        "Established": 1879,
+        "funFact": "Warren Woods State Park is a 311-acre (126 ha) nature preserve and public recreation area in Berrien County, Michigan, near the village of Three Oaks. The state park is leased by private owners to the state of Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13798,
+          42.12972
+        ]
+      },
+      "properties": {
+        "name": "Watkins Lake State Park and County Preserve",
+        "Established": 2017,
+        "funFact": "Watkins Lake State Park and County Preserve is a combination public recreation area and nature preserve located five miles west of Manchester in Jackson and Washtenaw counties, Michigan. The area occupies a total of 1,122 acres (454 ha), with the Michigan Department of Natural Resources owning 717 acres (290 ha) in Norvell Township, Jackson County, and Washtenaw County owning 405 acres (164 ha) in Manchester Township. Dedicated in 2017, it is under the joint management of the Michigan DNR and the Washtenaw County Parks & Recreation Commission. A five-mile former rail corridor runs through the park and into grasslands in the eastern portion of the preserve."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9028,
+          45.7342
+        ]
+      },
+      "properties": {
+        "name": "Wilderness State Park",
+        "Established": 1922,
+        "funFact": "Wilderness State Park is a public recreation area bordering Lake Michigan, five miles southwest of Mackinaw City in Emmet County in Northern Michigan. The state park's 12,800 acres (5,200 ha) include 26 miles (42 km) of shoreline, diverse forested dune and swale complexes, wetlands, camping areas, and many miles of hiking trails. The state park is operated by the Michigan Department of Natural Resources, which has, as of 2006, approved a proposal that 4,492 acres (1,818 ha) be officially dedicated as a wilderness area. Wilderness State Park was designated a Michigan \"dark sky preserve\" in 2012."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0253,
+          42.3319
+        ]
+      },
+      "properties": {
+        "name": "William G. Milliken State Park and Harbor",
+        "Established": 2007,
+        "funFact": "The William G. Milliken State Park and Harbor (formerly named Tri-Centennial State Park and Harbor) is a public recreation area located on the Detroit River just east of downtown Detroit, Michigan, on a portion of the city's International Riverfront. The state park's 31 acres (13 ha) include wetlands, paved trails, and a 52-slip harbor of refuge. A 63-foot (19 m) conical brick lighthouse tower, designed as a scaled-down replica of the Tawas Point Light, marks the harbor entrance."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8044,
+          44.0289
+        ]
+      },
+      "properties": {
+        "name": "Wilson State Park",
+        "Established": 1927,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0483,
+          45.2319
+        ]
+      },
+      "properties": {
+        "name": "Young State Park",
+        "Established": 1921,
+        "funFact": "Young State Park is a public recreation area near Boyne City, Michigan, occupying 563 acres (228 ha) on the eastern shore of 17,260-acre (6,980 ha) Lake Charlevoix in Charlevoix County in the northwest of Northern Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.845,
+          42.510833333
+        ]
+      },
+      "properties": {
+        "name": "Brighton State Recreation Area",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.56578,
+          42.63319
+        ]
+      },
+      "properties": {
+        "name": "Highland State Recreation Area",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5425,
+          42.814444444
+        ]
+      },
+      "properties": {
+        "name": "Holly State Recreation Area",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1342,
+          42.9461
+        ]
+      },
+      "properties": {
+        "name": "Ionia State Recreation Area",
+        "Established": null,
+        "funFact": "Ionia State Recreation Area is a 4,500-acre (1,800 ha) recreation area, located in Ionia County, Michigan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.730833333,
+          42.486388888
+        ]
+      },
+      "properties": {
+        "name": "Island Lake State Recreation Area",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2417,
+          41.8361
+        ]
+      },
+      "properties": {
+        "name": "Lake Hudson State Recreation Area",
+        "Established": null,
+        "funFact": "Lake Hudson State Recreation Area is a public recreation area located within southwestern Lenawee County in the U.S. state of Michigan. With its main entrance located along M-156, it is mostly located within Hudson Township and a very small portion extending south into neighboring Medina Township. The park was established in 1979, and it encompasses 2,796 acres (4.369 mi2; 11.32 km2) surrounding the Lake Hudson reservoir. Lake Hudson is recognized as the first dark-sky preserve in the United States, when it was designated as such in 1993. It is governed by the Michigan Department of Natural Resources and is operated and maintained by the nearby Hayes State Park in the northern portion of the county."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.011,
+          46.0882
+        ]
+      },
+      "properties": {
+        "name": "Lime Island State Recreation Area",
+        "Established": null,
+        "funFact": "Lime Island State Recreation Area is a 980 acres (400 ha) undeveloped state park in the U.S. state of Michigan. The recreation area is located on Lime Island in the St. Marys River near its mouth. The park has no facilities except 5 primitive boat-in campsites. The park was purchased in 1982 and managed by the state's Forest Management Division until it was transferred to the Parks Department in 2011, becoming the 99th park unit. Lime Island contains historic sites from its history as summer camps of Woodland Indians, a lime kiln site, ship bunkering site, and a resort. Lime Island was one of the state forest campgrounds slated to be shut down due to funding cuts until it was transferred to the park program. The island has occasional moose and black bear. Hunting, hiking and fishing are allowed in the park."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9481,
+          45.7597
+        ]
+      },
+      "properties": {
+        "name": "Menominee River State Recreation Area",
+        "Established": null,
+        "funFact": "Menominee River State Recreation Area is a state-managed protected area located in Breitung and Norway townships in Dickinson County and Faithorn Township in Menominee County, Michigan, southeast of Iron Mountain. It is 2,354 acres (953 ha) in area and is currently undeveloped. The park comprises a 145.35-acre (58.82 ha) tract along 1.5 miles (2.4 km) of the Menominee River south of the City of Norway and the 2,208.83-acre (893.88 ha) Quiver Falls Tract along eight miles (13 km) of the river farther downstream. In 2016, an additional 525-acre (212 ha) of Escanaba State Forest land was transferred from the Forestry Division to the DNR's Parks and Recreation Division and became the Pemene Falls Unit of the park, matching a similarly named unit on the Wisconsin side of the river. According to the Michigan Department of Natural Resources (DNR), the Piers Gorge tract includes \"whitewater rapids and waterfalls, and contains some of the fastest-moving water in Michigan or Wisconsin. It is not navigable for general canoeing, but has become a popular destination for expert class kayakers seeking challenging Class IV whitewater. The parcel also contains good wildlife viewing opportunities for eagles, osprey and waterfowl, as well as public fishing access.\" The DNR notes the Quiver Falls parcel as containing \"river frontage on both sides of the Menominee River, scenic rocky gorges with significant drops in the river and waterfalls. The area is popular with hunters and anglers, as well visitors because of the scenic sightseeing opportunities.\" The lands on the Wisconsin side of the river are part of the Menominee River State Park and Recreation Area and managed by the Wisconsin Department of Natural Resources. Both parks are managed together by the departments of both states."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9708,
+          42.4261
+        ]
+      },
+      "properties": {
+        "name": "Pinckney State Recreation Area",
+        "Established": null,
+        "funFact": "Pinckney State Recreation Area is a Michigan state recreation area in Dexter, Sylvan and Lyndon Townships, Washtenaw County and Putnam and Unadilla Townships, Livingston County in the U.S. state of Michigan. The park is 11,000 acres (4,500 ha) and sits at an elevation of 922 feet (281 m). The park is connected to the nearby Waterloo State Recreation Area by the 35-mile (56 km) Waterloo–Pinckney Trail. Pinckney State Recreation Area is open for year-round recreation including hiking, fishing, swimming, hunting and a variety of winter sports."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5467,
+          42.5675
+        ]
+      },
+      "properties": {
+        "name": "Proud Lake State Recreation Area",
+        "Established": null,
+        "funFact": "Proud Lake State Recreation Area is a state-managed public park and recreation area located in Commerce Township, Oakland County, Michigan, near Wixom. It is under the jurisdiction of the Michigan Department of Natural Resources. The recreation area has a total area of 3,030 acres (12.3 km2) and offers various outdoor activities including 20 miles (32 km) of hiking trails (9 miles of which are open to horses and mountain bikes), cross-country skiing, fishing in the Huron River, hunting (in limited areas), canoeing, and picnicking. A campground has 130 campsites and a 24-person cabin for rent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0253,
+          44.3911
+        ]
+      },
+      "properties": {
+        "name": "Rifle River State Recreation Area",
+        "Established": null,
+        "funFact": "Rifle River State Recreation Area is a state park located on the upper reaches of the Rifle River within the Au Sable State Forest in Ogemaw County, in the U.S. state of Michigan. Covering 4,449 acres (1,800 ha), the area provides a variety of recreational opportunities, including boating, canoeing, hiking, hunting, fishing, cross-country skiing, biking, and swimming. This area was formerly a private hunting and fishing retreat owned by Harry Mulford Jewett, president of the Paige-Detroit Motor Car Company, for whom the Jewett automobile was named. In 1945 the tract, then called Grousehaven, was purchased by the Michigan Department of Conservation from Mrs. Jewett after her husband's death. The Department of Conservation renamed it the Rifle River Area and used it as a field laboratory for fish and game research. In 1963, the Parks Division acquired the area and it is now known as the Rifle River State Recreation Area."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3949,
+          45.1997
+        ]
+      },
+      "properties": {
+        "name": "Rockport State Recreation Area",
+        "Established": null,
+        "funFact": "Rockport State Recreation Area is a 4,237-acre (17.15 km2) state park located along the shore of Lake Huron in Alpena and Presque Isle counties in the state of Michigan, United States. It is operated by the Michigan Department of Natural Resources and was established in 2012. The park contains limestone formations and an old limestone quarry. There is a deep water boat launch that can accommodate all sizes of watercraft. The park is located along the Lake Huron Flyway. It is used to gauge the health of Lake Huron and its shoreline environment. Several ship wrecks can be found off-shore in the Thunder Bay National Marine Sanctuary, including the Portland and the Portsmouth. The park was previously known as \"The Rockport property\" and is not far north of Alpena, Michigan. In Alpena County, about 11 miles south is the Michigan Nature Association's Julius C. and Marie Moran Peter Memorial Nature Sanctuary. The sanctuary encompasses 95 acres and Grass Lake. Dwarf lake iris, bird's-eye primrose and eastern white cedar surround it, and running through it is Hamilton Road, Michigan's first declared \"Natural Beauty Road\" (1971). Rockport State Recreation Area was designated a Michigan \"dark sky preserve\" in 2016. Rockport State Park is Michigan's 100th state park and a dark sky preserve. It contains a 300 acres (120 ha) abandoned limestone quarry, Devonian fossils, sinkholes and a protected deep water harbor. It is a U.S. 23 route heritage site. It is part of the \"Alpena Blueway\" paddling route."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1908,
+          42.3614
+        ]
+      },
+      "properties": {
+        "name": "Waterloo State Recreation Area",
+        "Established": null,
+        "funFact": "Waterloo State Recreation Area is the third-largest park in Michigan, encompassing over 21,000 acres (85 km2) of forest, lakes and wetlands. Located in northeast Jackson County and parts of Washtenaw County, the park is the largest in the Lower Peninsula of Michigan and features 4 campgrounds, 11 lakes, a nature center, and over 50 miles (80 km) of trails - some for horses, bicycles, hiking and cross-country skiing. Waterloo SRA includes the Black Spruce Bog Natural Area, a National Natural Landmark and borders the 11,000-acre (45 km2) Pinckney Recreation Area on the east and the 950-acre (3.8 km2) Phyllis Haehnle Memorial Audubon Sanctuary to the west. The land preserved by the park is not all contiguous and numerous private landholdings and roads run through the park area. The area is characterized by moraines, kettle lakes, swamps and bogs left by retreating glaciers after the last ice age. The park was created by the federal government during the Great Depression and is long-term leased to the state."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3428,
+          43.55
+        ]
+      },
+      "properties": {
+        "name": "Hart-Montague Trail State Park",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9575,
+          42.3825
+        ]
+      },
+      "properties": {
+        "name": "Kal-Haven Trail",
+        "Established": null,
+        "funFact": "The Kal-Haven Trail, formally known as the Kal-Haven Trail Sesquicentennial State Park, is a rail trail in the US that originally ran 33.5 miles (53.9 km) between South Haven, Michigan, to a point just west of the city of Kalamazoo, Michigan, where there is a trailhead. In 2008, the trail was extended east from the trailhead to downtown Kalamazoo as part of the Kalamazoo River Valley Trail."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0075,
+          42.4675
+        ]
+      },
+      "properties": {
+        "name": "Lakelands Trail State Park",
+        "Established": null,
+        "funFact": "Lakelands Trail State Park, officially the Mike Levine Lakelands Trail State Park since January 20, 2017, is a state park in Michigan that runs east–west from southwest of Munith to Hamburg Township, Michigan. It is a multi-use trail converted from abandoned railroad corridors. According to the Michigan DNR web site, the north side of the trail is for hiking and biking, and the south side is for horseback riding. Based on the latest published DNR map the trail is 31.9 miles (51.3 km) long with the surface from Hawkins Rd. southwest of Munith to west of Pinckney composed of sections of crushed limestone, slag and sand, or unimproved. 10 miles (16 km) are paved in Hamburg Township from the first intersection with M-36 west of Pinckney to end of the park east of the Hamburg Rd. trailhead. A paved section of trail also extends from the edge of the park east of Hamburg Rd. to the west side of Whitmore Lake Rd., just south of its intersection with 9 Mile Rd in Green Oak Township. From Stockbridge to Pinckney, horses are routinely ridden on the unpaved trail surface. Only the paved portion from just west of Pinckney to the east end in Hamburg Township is consistently usable by bicyclists."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2525,
+          42.2886
+        ]
+      },
+      "properties": {
+        "name": "Van Buren Trail State Park",
+        "Established": null,
+        "funFact": "Van Buren Trail State Park, also known as Trail State Park, is an unimproved rail trail running along a former railroad right-of-way between Hartford, Michigan to South Haven, Michigan in Van Buren County. It is 14 miles (23 km) long and is used by hikers, mountain bikers and horse trail riders in the summer and snowmobilers in the winter. Terrain is flat with farmland and trees. In 2004, Van Buren County took over operation of the state-owned trail after state budget problems. There was a trail pass system to pay for maintenance but that was resolved years ago and the trail is now free for Michigan residents with a Parks Passport. In 2015, The Michigan Department of Natural Resources paved the 4.5-mile stretch which connects Van Buren State Park to the South Haven Trail system The pavement is a 10-foot-wide asphalt surface. South Haven maintains the marked route that connects to a downtown trailhead, city businesses, beaches and Kal-Haven Trail State Park. In the fall of 2022 the Friends of the Kal-Haven Park installed directional and mile posts along the trail to better direct guests traveling from Hartford to South Haven via Covert. Its northern terminus is South Haven near Lake Michigan. The Kal-Haven Trail starts in South Haven northeast of downtown. The trail pass is valid for both trails."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4859,
+          43.7178
+        ]
+      },
+      "properties": {
+        "name": "White Pine Trail State Park",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.090961111,
+          46.480830555
+        ]
+      },
+      "properties": {
+        "name": "Agate Falls Scenic Site",
+        "Established": null,
+        "funFact": "The Agate Falls Scenic Site is a waterfall and scenic site located in Interior Township, in southeastern Ontonagon County, Michigan. The waterfall is 7 miles (11 km) southeast of Bruce Crossing, Michigan on the state highway M-28. Agate Falls is a 39-foot-high (12 m) waterfall of the Middle Branch of the Ontonagon River. Dropping down from the highlands of the western Upper Peninsula, this river drops 875 feet (267 m) from the Bond Falls Flowage to Lake Superior, and Agate Falls is part of this change in elevation. The water flows over a shelf of erosion-resistant sandstone. The falls can be seen from a trail accessible from a parking lot on M-28 or from a sturdy railroad bridge which now is part of a snowmobile and atv trail. This bridge, which once carried the tracks of the Duluth, South Shore and Atlantic Railway, spans the falls. A roadside picnic area offers simple recreational opportunities."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7172,
+          45.8517
+        ]
+      },
+      "properties": {
+        "name": "Father Marquette National Memorial",
+        "Established": 1975,
+        "funFact": "Father Marquette National Memorial pays tribute to the life and work of Jacques Marquette, French priest and explorer. The memorial is located in Straits State Park near St. Ignace in the modern-day U.S. state of Michigan, where he founded a Jesuit mission in 1671 and was buried in 1678. The associated Father Marquette Museum building was destroyed in a fire on March 9, 2000."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.75019444,
+          44.51380556
+        ]
+      },
+      "properties": {
+        "name": "Ralph A. MacMullan Conference Center",
+        "Established": null,
+        "funFact": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6464,
+          46.3878
+        ]
+      },
+      "properties": {
+        "name": "Wagner Falls Scenic Site",
+        "Established": null,
+        "funFact": "The Wagner Falls Scenic Site is a Michigan State Park, located in central Alger County, Upper Michigan. The 23-acre (0.1 km2) state scenic area protects Wagner Falls."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5636,
+          47.1564
+        ]
+      },
+      "properties": {
+        "name": "Keweenaw National Historical Park",
+        "Established": 1992,
+        "funFact": "Keweenaw National Historical Park is a unit of the U.S. National Park Service. Established in 1992, the park celebrates the life and history of the Keweenaw Peninsula in the Upper Peninsula of the U.S. state of Michigan. It is a federal-local cooperative park made up of two primary units, the Calumet Unit and the Quincy Unit, and almost two dozen cooperating \"Heritage Sites\" located on federal, state, and privately owned land in and around the Keweenaw Peninsula. The National Park Service owns approximately 1,700 acres (690 ha) in the Calumet and Quincy Units. Units are located in Baraga, Houghton, Keweenaw, and Ontonagon counties. The Congressional legislation establishing the Park stated, among other things, that: (1) The oldest and largest lava flow known on Earth is located on the Keweenaw Peninsula of Michigan. This volcanic activity produced the only place on Earth where large scale economically recoverable 97 percent pure native copper is found. (2) The Keweenaw Peninsula is the only site in the country where prehistoric aboriginal mining of copper occurred. Artifacts made from this copper by these ancient Indians were traded as far south as present day Alabama."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3125,
+          46.5622
+        ]
+      },
+      "properties": {
+        "name": "Pictured Rocks National Lakeshore",
+        "Established": null,
+        "funFact": "Pictured Rocks National Lakeshore is a U.S. National Lakeshore in the Upper Peninsula of Michigan, United States. It extends for 42 mi (68 km) along the shore of Lake Superior and covers 73,236 acres (114 sq mi; 296 km2). The park has extensive views of the hilly shoreline between Munising and Grand Marais in Alger County, with picturesque rock formations, waterfalls, and sand dunes. Pictured Rocks derives its name from the 13 miles (24 km) of colorful sandstone cliffs northeast of Munising. The cliffs reach up to 200 feet (60 m) above lake level. They have been naturally sculptured into a variety of shallow caves, arches, and formations resembling castle turrets and human profiles. Near Munising, visitors can also visit Grand Island, most of which are included in the separate Grand Island National Recreation Area. The U.S. Congress designated Pictured Rocks the first National Lakeshore in the United States in 1966. It is governed by the National Park Service (NPS), with 22 year-round NPS employees as of May 2006, and received 1,313,179 visitors in 2021."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.378333,
+          41.913611
+        ]
+      },
+      "properties": {
+        "name": "River Raisin National Battlefield Park",
+        "Established": 2009,
+        "funFact": "The River Raisin National Battlefield Park preserves the location of the January 1813 Battle of Frenchtown in southeastern Michigan, and is the only national battlefield park marking a site of the War of 1812. The park was established as the 393rd unit of the United States National Park Service under Title VII of the Omnibus Public Land Management Act, which was signed into law on March 30, 2009. The park is located in the city of Monroe in Monroe County, Michigan. The site was designated as a Michigan Historic Site on February 18, 1956, and was added to the National Register of Historic Places on December 10, 1982. The former River Raisin Battlefield Visitor Center at 1403 East Elm Avenue was added to the National Register listing in 2019. River Raisin National Battlefield Park officially began operation as a national park unit on October 22, 2010."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.020277777,
+          44.913055555
+        ]
+      },
+      "properties": {
+        "name": "Sleeping Bear Dunes National Lakeshore",
+        "Established": 1970,
+        "funFact": "Sleeping Bear Dunes National Lakeshore is a U.S. national lakeshore in the northwestern Lower Peninsula of Michigan. Located within Benzie and Leelanau counties, the park extends along a 35-mile (56 km) stretch of Lake Michigan's eastern coastline, as well as North and South Manitou islands, preserving a total of 71,199 acres (111 sq mi; 288 km2). The park is known for its outstanding natural features, including dune formations, forests, beaches, and ancient glacial phenomena. The lakeshore also contains many cultural features, including the 1871 South Manitou Island Lighthouse, three former stations of the Coast Guard (formerly the Life-Saving Service), and an extensive rural historic farm district. The park is administered by the National Park Service, and was established on October 21, 1970. In 2011, the area won the title of \"The Most Beautiful Place in America\" from Good Morning America. In 2014, a section of the park was named the Sleeping Bear Dunes Wilderness by the United States Congress."
+      }
+    }
+  ]
+}
