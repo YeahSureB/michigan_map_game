@@ -18,14 +18,21 @@ body {
 
 /* Mode Selection Screen */
 .mode-selection {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(3px);
     color: white;
     text-align: center;
+    z-index: 2000;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
 }
 
 .mode-selection h1 {
@@ -70,7 +77,9 @@ body {
 }
 
 .hidden {
-    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
 }
 
 /* Info Panel */
@@ -115,14 +124,6 @@ body {
 #map {
     flex: 1;
     width: 100%;
-}
-
-/* Result Panel */
-.result-panel {
-    background-color: white;
-    padding: 1.5rem 2rem;
-    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
 .result-message {
@@ -206,4 +207,138 @@ body {
     .game-stats {
         gap: 1rem;
     }
+}
+
+/* Google Maps Style Left Sidebar - Flexible */
+.result-panel {
+    position: absolute;
+    left: 16px;
+    bottom: 16px;
+
+    /* Flexible sizing */
+    min-width: 280px;
+    max-width: 400px;
+    max-height: calc(100vh - 140px);
+    /* Leave room for top bar + padding */
+
+    /* Allow scrolling if content gets too tall */
+    overflow-y: auto;
+
+    background: white;
+    border-radius: 12px;
+    padding: 18px;
+
+    box-shadow:
+        0 2px 6px rgba(0, 0, 0, 0.3),
+        0 8px 24px rgba(0, 0, 0, 0.15);
+
+    z-index: 1000;
+    text-align: left;
+}
+
+
+.result-panel hr {
+    margin: 12px 0;
+    border: none;
+    border-top: 1px solid #eee;
+}
+
+.result-message {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.result-distance {
+    font-size: 1.1rem;
+    color: #1a73e8;
+    /* Google blue */
+    margin-bottom: 12px;
+}
+
+.sidebar-info {
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+/* Make buttons Google-ish */
+.next-btn {
+    background: #1a73e8;
+}
+
+.next-btn:hover {
+    background: #1669c1;
+}
+
+.change-mode-btn {
+    background: #5f6368;
+}
+
+.change-mode-btn:hover {
+    background: #4a4d52;
+}
+
+.info-panel {
+    background: white;
+    color: #202124;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.leaflet-control-zoom a {
+    border-radius: 8px !important;
+}
+
+.toggle-counties-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    color: #202124;
+    background: white;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.toggle-counties-btn:hover {
+    background: #f8f9fa;
+    border-color: #1a73e8;
+}
+
+/* Styling for the new result details */
+.fun-fact {
+    margin-top: 8px;
+    font-style: italic;
+    color: #5f6368;
+    /* Subtle gray */
+    line-height: 1.4;
+}
+
+#population-container {
+    margin-top: 4px;
+}
+
+.wiki-link {
+    display: inline-block;
+    margin-top: 8px;
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.wiki-link:hover {
+    text-decoration: underline;
+}
+
+/* Button Group Layout */
+.result-actions {
+    margin-top: 16px;
+    display: flex;
+    gap: 8px;
+}
+
+.result-actions .next-btn {
+    flex: 1;
+    margin: 0;
+    /* Override the old 0.5rem margin */
+    padding: 10px;
 }
