@@ -1198,7 +1198,7 @@
       "properties": {
         "name": "Menominee River State Recreation Area",
         "Established": null,
-        "funFact": "Menominee River State Recreation Area is a state-managed protected area located in Breitung and Norway townships in Dickinson County and Faithorn Township in Menominee County, Michigan, southeast of Iron Mountain. It is 2,354 acres (953 ha) in area and is currently undeveloped. The park comprises a 145.35-acre (58.82 ha) tract along 1.5 miles (2.4 km) of the Menominee River south of the City of Norway and the 2,208.83-acre (893.88 ha) Quiver Falls Tract along eight miles (13 km) of the river farther downstream. In 2016, an additional 525-acre (212 ha) of Escanaba State Forest land was transferred from the Forestry Division to the DNR's Parks and Recreation Division and became the Pemene Falls Unit of the park, matching a similarly named unit on the Wisconsin side of the river. According to the Michigan Department of Natural Resources (DNR), the Piers Gorge tract includes \"whitewater rapids and waterfalls, and contains some of the fastest-moving water in Michigan or Wisconsin. It is not navigable for general canoeing, but has become a popular destination for expert class kayakers seeking challenging Class IV whitewater. The parcel also contains good wildlife viewing opportunities for eagles, osprey and waterfowl, as well as public fishing access.\" The DNR notes the Quiver Falls parcel as containing \"river frontage on both sides of the Menominee River, scenic rocky gorges with significant drops in the river and waterfalls. The area is popular with hunters and anglers, as well visitors because of the scenic sightseeing opportunities.\" The lands on the Wisconsin side of the river are part of the Menominee River State Park and Recreation Area and managed by the Wisconsin Department of Natural Resources. Both parks are managed together by the departments of both states."
+        "funFact": "The Menominee River State Recreation Area in Michigan covers 2,354 undeveloped acres along the Menominee River, southeast of Iron Mountain. It features thrilling Piers Gorge with some of the region's fastest whitewater—Class IV rapids and waterfalls drawing expert kayakers—plus prime wildlife viewing for eagles, ospreys, and waterfowl, and public fishing spots. Downstream, the Quiver Falls and Pemene Falls units boast scenic rocky gorges, dramatic drops, and river frontage ideal for hunting, angling, and breathtaking sightseeing. Jointly managed with Wisconsin's matching park across the river."
       }
     },
     {
@@ -1472,4 +1472,5 @@
       }
     }
   ]
+
 }
