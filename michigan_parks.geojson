@@ -508,7 +508,7 @@
       "properties": {
         "name": "Mackinac Island State Park",
         "Established": 1875,
-        "funFact": "Mackinac Island State Park is a state park located on Mackinac Island in the U.S. state of Michigan. A Lake Huron island, it is near the Straits of Mackinac. The island park encompasses 1,800 acres (7.3 km2), which is approximately 80% of the island's total area. The park is also within the boundaries of the city of Mackinac Island and has permanent residents within its boundaries. M-185 circles the perimeter of the park as the only motorless highway in the state due to the island's ban of automobiles. The park is governed by the Michigan Department of Natural Resources and the Mackinac Island State Park Commission. On July 15, 2009, the park celebrated its 20 millionth visitor. The park was first established as Mackinac National Park in 1875, which was the second national park established in the United States after Yellowstone National Park. In 1895, it was transferred to state control and reorganized as Mackinac Island State Park, which was the first state park in Michigan. The park contains many important historical and geological features, such as Fort Mackinac, Fort Holmes, other historic buildings, historic sites, limestone caves, and other unique rock formations. The park also operates the Mackinac Island Airport. Many of these sites are formally operated by the Mackinac Island State Park Commission, which also operates two other parks around the Straits of Mackinac area: Colonial Michilimackinac and Historic Mill Creek Discovery Park."
+        "funFact": "Mackinac Island State Park covers ~80% of Michigan’s car-free Mackinac Island in Lake Huron. Established in 1875 as America’s second national park (after Yellowstone), it became Michigan’s very first state park in 1895. The 1,800-acre park features historic Fort Mackinac, limestone caves, dramatic rock formations, and the only motorless state highway (M-185). No cars allowed—visitors explore by bike, horse, or foot. It welcomed its 20 millionth visitor in 2009 and still has permanent residents living inside the park boundaries."
       }
     },
     {
@@ -1474,4 +1474,5 @@
   ]
 
 }
+
 
