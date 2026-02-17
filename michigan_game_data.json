@@ -748,7 +748,8 @@
     "lat": 42.245395798869644,
     "lng": -83.1764999006595,
     "population": 38774,
-    "isCountySeat": false
+    "isCountySeat": false,
+    "funFact": "Lincoln Park is Michigan’s second-most densely populated city (after Hamtramck), with about 40,000 residents packed into a compact Downriver suburb just south of Detroit. Its standout historical gem: Council Point Park, where in 1763 Chief Pontiac rallied tribal leaders along the Ecorse River to plot rebellion against European settlers at nearby Fort Detroit. The city grew as a bedroom community for auto and steel workers, with no heavy industry of its own, and boasts an iconic Sears water tower as a longtime landmark."
   },
   {
     "name": "Flat Rock",
@@ -2040,3 +2041,4 @@
     "funFact": "Manchester is Michigan's newest city, transitioning from a village to a city in 2023."
   }
 ]
+
