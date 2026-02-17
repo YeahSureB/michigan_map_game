@@ -681,14 +681,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.361,
-          47.5492
+          -85.479472,
+          44.991306
         ]
       },
       "properties": {
-        "name": "Old Mission State Park",
-        "Established": 1975,
-        "funFact": "Coeur d'Alene's Old Mission State Park is a heritage-oriented state park in northern Idaho in the western United States, preserving the Mission of the Sacred Heart, or Cataldo Mission, a national historic landmark. The park contains the church itself, the parish house, and the surrounding property. Built in 1850–1853, Mission of the Sacred Heart is the oldest standing building in Idaho. It was designated a National Historic Landmark in 1961, and put on the National Register of Historic Places in 1966."
+        "name": "Mission Point Light",
+        "Established": 1992,
+        "funFact": "Mission Point Light is a lighthouse located in Michigan at the end of Old Mission Point, a peninsula jutting into Grand Traverse Bay 17 miles north of Traverse City. It was built in 1870 as an exact copy of the Mama Juda Light, which was built on the Detroit River in 1866. Famously, the lighthouse stands a few hundred yards south of the 45th parallel north, halfway between the North Pole and the Equator. It was deactivated in 1933 and purchased by the State of Michigan. There are a pair of signs that denote its location on the parallel, one of 29 places in the U.S. with such signs."
       }
     },
     {
@@ -1474,3 +1474,4 @@
   ]
 
 }
+
