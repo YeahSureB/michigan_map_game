@@ -47,8 +47,19 @@ body {
 }
 
 .mode-buttons {
-    display: flex;
-    gap: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    max-width: 700px;
+    width: 100%;
+    padding: 0 1rem;
+}
+
+/* On mobile, drop to 2 columns */
+@media (max-width: 768px) {
+    .mode-buttons {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 
 .mode-btn {
