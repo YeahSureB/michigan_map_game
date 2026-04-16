@@ -4,6 +4,8 @@ let gameData = [];
 let countyGameData = [];
 let parksGameData = [];
 let districtsGameData = [];
+let stateSenateGameData = [];
+let stateHouseGameData = [];
 let filteredTargets = [];
 let currentMode = '';
 let citiesPoolSize = 25;
@@ -19,11 +21,11 @@ let countiesLayer = null;
 let countiesVisible = false;
 let countiesData = null;
 let districtsLayer = null;
-let filterDetroit = false; // NEW
+let filterDetroit = false;
 
 // Detroit city center coordinates
-const DETROIT_CENTER = L.latLng(42.3314, -83.0458); // NEW
-const DETROIT_FILTER_RADIUS_MILES = 30; // NEW
+const DETROIT_CENTER = L.latLng(42.3314, -83.0458);
+const DETROIT_FILTER_RADIUS_MILES = 30;
 
 // Mode configuration
 const MODE_CONFIG = {
@@ -80,7 +82,32 @@ const MODE_CONFIG = {
         showDateFounded: false,
         wikiSuffix: '',
         hasPoolSize: false,
-        isPolygon: true
+        isPolygon: true,
+        geoVar: 'districtsGeoJSON'
+    },
+    'state-senate': {
+        dataSource: 'stateSenateGameData',
+        label: 'State Senate Districts',
+        resultLabel: 'District:',
+        nextBtnText: 'Next District',
+        showPopulation: false,
+        showDateFounded: false,
+        wikiSuffix: '',
+        hasPoolSize: false,
+        isPolygon: true,
+        geoVar: 'stateSenateGeoJSON'
+    },
+    'state-house': {
+        dataSource: 'stateHouseGameData',
+        label: 'State House Districts',
+        resultLabel: 'District:',
+        nextBtnText: 'Next District',
+        showPopulation: false,
+        showDateFounded: false,
+        wikiSuffix: '',
+        hasPoolSize: false,
+        isPolygon: true,
+        geoVar: 'stateHouseGeoJSON'
     }
 };
 
@@ -107,7 +134,7 @@ const streakNumberEl = document.getElementById('streak-number');
 const highScoreEl = document.getElementById('high-score');
 const gameModeEl = document.getElementById('game-mode');
 const citiesPoolDropdown = document.getElementById('cities-pool-dropdown');
-const filterDetroitBtn = document.getElementById('filter-detroit-btn'); // NEW
+const filterDetroitBtn = document.getElementById('filter-detroit-btn');
 const MAP_CENTER = [44.5, -85.5];
 
 // Initialize the game
@@ -116,6 +143,8 @@ async function init() {
     await loadCountyData();
     await loadParksData();
     await loadDistrictsData();
+    await loadStateSenateData();
+    await loadStateHouseData();
 
     initMap();
     loadPreferences();
@@ -129,13 +158,13 @@ async function init() {
     countiesBtn.addEventListener('click', () => startGame('counties'));
     document.getElementById('state-parks-btn').addEventListener('click', () => startGame('state-parks'));
     document.getElementById('congress-districts-btn').addEventListener('click', () => startGame('congress-districts'));
+    document.getElementById('state-senate-btn').addEventListener('click', () => startGame('state-senate'));
+    document.getElementById('state-house-btn').addEventListener('click', () => startGame('state-house'));
     nextBtn.addEventListener('click', nextRound);
     btnRetry.addEventListener('click', retryTarget);
     changeModeBtn.addEventListener('click', changeMode);
     document.getElementById('toggle-counties-btn').addEventListener('click', toggleCounties);
     citiesPoolDropdown.addEventListener('change', handlePoolSizeChange);
-
-    // NEW: Detroit filter toggle
     filterDetroitBtn.addEventListener('click', toggleDetroitFilter);
 }
 
@@ -186,7 +215,6 @@ function loadPreferences() {
         highScoreEl.textContent = highScore;
     }
 
-    // NEW: Load Detroit filter preference
     filterDetroit = localStorage.getItem('filterDetroit') === 'true';
     if (filterDetroit) {
         filterDetroitBtn.textContent = 'Show Detroit Suburbs';
@@ -213,18 +241,15 @@ function handlePoolSizeChange(e) {
 }
 
 function filterCitiesByPoolSize() {
-    let pool;
-    if (citiesPoolSize === -1) {
-        pool = [...gameData];
-    } else {
-        pool = [...gameData]
-            .sort((a, b) => b.population - a.population)
-            .slice(0, citiesPoolSize);
-    }
+    let pool = [...gameData];
 
-    // NEW: Apply Detroit suburb filter if enabled
     if (filterDetroit) {
         pool = pool.filter(city => !isTooCloseToDetroit(city));
+    }
+    pool.sort((a, b) => b.population - a.population);
+
+    if (citiesPoolSize !== -1) {
+        pool = pool.slice(0, citiesPoolSize);
     }
 
     filteredTargets = pool;
@@ -233,11 +258,15 @@ function filterCitiesByPoolSize() {
 async function loadGameData() {
     try {
         const response = await fetch('michigan_game_data.json');
-        gameData = await response.json();
+        const rawData = await response.json();
+        gameData = rawData.map(item => ({
+            ...item,
+            name: item.Name || "Unknown Location"
+        }));
+
         console.log(`Loaded ${gameData.length} cities from data file`);
     } catch (error) {
         console.error('Error loading game data:', error);
-        alert('Error loading game data. Please ensure michigan_game_data.json is in the same directory.');
     }
 }
 
@@ -254,7 +283,7 @@ async function loadGeoJSONData(filename, nameProperty, typeLabel) {
 
         const parsedData = geoJsonData.features.map(feature => {
             const props = feature.properties;
-            const name = props[nameProperty] || props.name || props.Name || `Unknown ${typeLabel}`;
+            const name = props[nameProperty] || props.Name || props.Name || `Unknown ${typeLabel}`;
 
             let lat, lng, geometry;
 
@@ -302,6 +331,17 @@ async function loadDistrictsData() {
     districtsGameData = result.data;
     window.districtsGeoJSON = result.rawGeoJSON;
 }
+async function loadStateSenateData() {
+    const result = await loadGeoJSONData('Michigan_State_Senate_Districts.geojson', 'Name', 'District');
+    stateSenateGameData = result.data;
+    window.stateSenateGeoJSON = result.rawGeoJSON;
+}
+
+async function loadStateHouseData() {
+    const result = await loadGeoJSONData('Michigan_State_House_Districts.geojson', 'Name', 'District');
+    stateHouseGameData = result.data;
+    window.stateHouseGeoJSON = result.rawGeoJSON;
+}
 
 function startGame(mode) {
     currentMode = mode;
@@ -325,16 +365,13 @@ function startGame(mode) {
     }
 
     citiesPoolDropdown.style.display = config.hasPoolSize ? 'inline-block' : 'none';
-
-    // NEW: Show/hide Detroit filter button — only in cities mode
     filterDetroitBtn.style.display = mode === 'cities' ? 'inline-block' : 'none';
 
     gameModeEl.textContent = config.label;
 
-    if (mode === 'congress-districts') {
-        showDistrictPolygons();
-    } else {
-        hideDistrictPolygons();
+    hideDistrictPolygons();
+    if (config.geoVar) {
+        showDistrictPolygons(config.geoVar);
     }
 
     console.log(`Starting ${mode} mode with ${filteredTargets.length} targets`);
@@ -363,8 +400,8 @@ function startRound() {
     clearMarkers();
     resultPanel.classList.add('hidden');
     currentTarget = filteredTargets[Math.floor(Math.random() * filteredTargets.length)];
-    targetCityName.textContent = currentTarget.name;
-    console.log(`Streak ${streak}: Find ${currentTarget.name}`);
+    targetCityName.textContent = currentTarget.Name;
+    console.log(`Streak ${streak}: Find ${currentTarget.Name}`);
 }
 
 function updateStreakDisplay() {
@@ -439,19 +476,18 @@ function displayResult(distance, userLatLng) {
         resultDistance.textContent = `You were ${distance} miles away!`;
     }
 
-    if (currentMode === 'congress-districts' && currentTarget.District) {
+    if (config.geoVar && currentTarget.District) {
         resultName.textContent = currentTarget.District;
     } else {
-        resultName.textContent = currentTarget.name;
+        resultName.textContent = currentTarget.Name;
     }
-
     resultFact.textContent = currentTarget.funFact ? `${currentTarget.funFact}` : '';
 
     const cityImageContainer = document.getElementById('city-image-container');
     const cityImage = document.getElementById('city-image');
-    const imageFileName = currentTarget.name.replace(/ /g, '_') + '.webp';
+    const imageFileName = currentTarget.Name.replace(/ /g, '_') + '.webp';
     cityImage.src = `images/${imageFileName}`;
-    cityImage.alt = currentTarget.name;
+    cityImage.alt = currentTarget.Name;
     cityImageContainer.style.display = 'block';
     cityImage.onerror = () => { cityImageContainer.style.display = 'none'; };
     cityImage.onload = () => { cityImageContainer.style.display = 'block'; };
@@ -473,9 +509,9 @@ function displayResult(distance, userLatLng) {
     }
 
     if (config.wikiSuffix) {
-        resultWikiLink.href = `https://en.wikipedia.org/wiki/${encodeURIComponent(currentTarget.name)}${config.wikiSuffix}`;
+        resultWikiLink.href = `https://en.wikipedia.org/wiki/${encodeURIComponent(currentTarget.Name)}${config.wikiSuffix}`;
     } else {
-        resultWikiLink.href = `https://en.wikipedia.org/wiki/${encodeURIComponent(currentTarget.name)}`;
+        resultWikiLink.href = `https://en.wikipedia.org/wiki/${encodeURIComponent(currentTarget.Name)}`;
     }
 
     resultPanel.classList.remove('hidden');
@@ -558,10 +594,10 @@ async function toggleCounties() {
     localStorage.setItem('countiesVisible', countiesVisible);
 }
 
-function showDistrictPolygons() {
+function showDistrictPolygons(geoVar) {
     if (districtsLayer) return;
-    if (window.districtsGeoJSON) {
-        districtsLayer = L.geoJSON(window.districtsGeoJSON, {
+    if (window[geoVar]) {
+        districtsLayer = L.geoJSON(window[geoVar], {
             style: { color: '#3498db', weight: 2, opacity: 0.7, fillOpacity: 0 }
         }).addTo(map);
     }
